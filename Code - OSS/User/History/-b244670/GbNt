@@ -1,0 +1,19 @@
+set page-padding 1
+set sandbox none
+set adjust-open best-fit
+set font MesloLGS NF
+set default-bg "#282a36"
+set statusbar-bg "#282a36"
+set inputbar-bg "#282a36"
+set notification-bg "#50fa7b"
+set highlight-color "#f1fa8c"
+set notification-error-bg "#ff5555"
+set notification-warning-bg "#f1fa8c"
+set recolor-lightcolor "#282a36"
+set recolor-darkcolor "#f8f8f2"
+map <C-p> print
+map i toggle_index
+map c recolor
+map <C-Left> rotate ccw
+map <C-Right> rotate cw
+map p jumplist backward

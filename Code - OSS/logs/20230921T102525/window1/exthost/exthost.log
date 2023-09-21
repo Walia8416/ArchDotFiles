@@ -1,0 +1,9 @@
+2023-09-21 10:25:28.061 [info] Extension host with pid 46112 started
+2023-09-21 10:25:28.145 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-21 10:25:28.264 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-21 10:25:28.279 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-21 10:25:28.293 [info] Eager extensions activated
+2023-09-21 10:25:28.299 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-21 10:25:28.306 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-21 10:26:40.600 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-21 10:26:40.602 [info] Extension host with pid 46112 exiting with code 0

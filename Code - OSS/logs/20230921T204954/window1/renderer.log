@@ -1,0 +1,3 @@
+2023-09-21 20:49:55.024 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/adiwalia/.config/i3/config","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-09-21 20:49:58.368 [info] [perf] Render performance baseline is 34ms
+2023-09-21 20:50:16.976 [error] [text file model] handleSaveError(14) - exit - resulted in a save error: Error: Unable to write file '/home/adiwalia/.config/i3/config' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/adiwalia/.config/i3/config') file:///home/adiwalia/.config/i3/config
