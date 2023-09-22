@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Agila Theme",
 		"Package Control",
+		"Terminus",
 	],
 }

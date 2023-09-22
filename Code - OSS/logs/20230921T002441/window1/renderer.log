@@ -1,2 +1,0 @@
-2023-09-21 00:24:42.814 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/adiwalia/.config/cava/config","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2023-09-21 00:24:46.535 [info] [perf] Render performance baseline is 41ms

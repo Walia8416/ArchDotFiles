@@ -1,9 +1,0 @@
-2023-09-21 00:25:44.824 [info] Extension host with pid 115974 started
-2023-09-21 00:25:45.006 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2023-09-21 00:25:45.076 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
-2023-09-21 00:25:45.087 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2023-09-21 00:25:45.094 [info] Eager extensions activated
-2023-09-21 00:25:45.097 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2023-09-21 00:25:45.100 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2023-09-21 00:27:09.720 [info] Extension host terminating: renderer closed the MessagePort
-2023-09-21 00:27:09.723 [info] Extension host with pid 115974 exiting with code 0

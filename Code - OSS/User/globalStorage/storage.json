@@ -1,31 +1,36 @@
 {
     "userDataProfilesMigration": true,
     "profileAssociations": {
-        "workspaces": {},
-        "emptyWindows": {
-            "1695309594440": "__default__profile__"
-        }
+        "workspaces": {
+            "file:///home/adiwalia/Documents/DSA/GFG": "__default__profile__",
+            "file:///home/adiwalia/Documents/DjangoProj": "__default__profile__"
+        },
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "2755f985ccc79e5e9fec13f2f4308ad4f8e5d15740dd4396b418e93360506c7f",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1695309594440"
+                "folderUri": "file:///home/adiwalia/Documents/DjangoProj"
+            },
+            {
+                "folderUri": "file:///home/adiwalia/Documents/DSA/GFG"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/1695309594440",
+            "folder": "file:///home/adiwalia/Documents/DjangoProj",
+            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/4e0ad81ad9afd81083cc8eb6ba938129",
             "uiState": {
                 "mode": 1,
-                "x": 16,
+                "x": 1936,
                 "y": 42,
-                "width": 1888,
-                "height": 1022
+                "width": 1568,
+                "height": 842
             }
         },
         "openedWindows": []
@@ -69,6 +74,31 @@
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
                                     "label": "&&Reopen Closed Editor"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Documents/DjangoProj",
+                                        "path": "/home/adiwalia/Documents/DjangoProj",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/DjangoProj"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Documents/DSA/GFG",
+                                        "path": "/home/adiwalia/Documents/DSA/GFG",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/DSA/GFG"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -220,13 +250,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "saveAll",
@@ -365,13 +393,15 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor",
-                        "enabled": false
+                        "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -416,13 +446,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -807,8 +835,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -816,8 +843,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1327,6 +1353,11 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
+            },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
