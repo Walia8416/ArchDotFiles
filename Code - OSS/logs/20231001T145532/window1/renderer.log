@@ -1,0 +1,2 @@
+2023-10-01 14:55:33.996 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/adiwalia/.config/polybar/config.ini","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-10-01 14:55:37.513 [info] [perf] Render performance baseline is 32ms

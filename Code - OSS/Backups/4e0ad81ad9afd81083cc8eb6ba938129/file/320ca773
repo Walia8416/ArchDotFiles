@@ -1,0 +1,7 @@
+file:///home/adiwalia/Documents/DjangoProj/templates/post_new.html {"mtime":1695472515259,"ctime":1695472515259,"size":0,"etag":"3b8b0hfik0","orphaned":false,"typeId":""}
+{% extends 'base.html' %}
+{% block content %}
+    <h1>New Post</h1>
+    <form>
+        
+    </form>

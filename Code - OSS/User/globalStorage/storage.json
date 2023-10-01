@@ -5,7 +5,9 @@
             "file:///home/adiwalia/Documents/DSA/GFG": "__default__profile__",
             "file:///home/adiwalia/Documents/DjangoProj": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1696154783556": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "2755f985ccc79e5e9fec13f2f4308ad4f8e5d15740dd4396b418e93360506c7f",
@@ -16,18 +18,21 @@
                 "folderUri": "file:///home/adiwalia/Documents/DjangoProj"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1696154783556"
+            }
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/adiwalia/Documents/DjangoProj",
-            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/4e0ad81ad9afd81083cc8eb6ba938129",
+            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/1696154783556",
             "uiState": {
                 "mode": 1,
-                "x": 1936,
-                "y": 42,
-                "width": 1568,
-                "height": 842
+                "x": 971,
+                "y": 45,
+                "width": 930,
+                "height": 1016
             }
         },
         "openedWindows": []
@@ -105,78 +110,12 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/i3/config",
-                                        "path": "/home/adiwalia/.config/i3/config",
+                                        "external": "file:///home/adiwalia/.config/polybar/themes/rainbow-slashes.ini",
+                                        "path": "/home/adiwalia/.config/polybar/themes/rainbow-slashes.ini",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/i3/config"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/alacritty/alacritty.yml",
-                                        "path": "/home/adiwalia/.config/alacritty/alacritty.yml",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/alacritty/alacritty.yml"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/cava/config",
-                                        "path": "/home/adiwalia/.config/cava/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/cava/config"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/zathura/zathurarc",
-                                        "path": "/home/adiwalia/.config/zathura/zathurarc",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/zathura/zathurarc"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/Documents/config",
-                                        "path": "/home/adiwalia/Documents/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/config"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/alacritty/catppuccin-mocha.yml",
-                                        "path": "/home/adiwalia/.config/alacritty/catppuccin-mocha.yml",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/alacritty/catppuccin-mocha.yml"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/picom/picom.conf",
-                                        "path": "/home/adiwalia/.config/picom/picom.conf",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/picom/picom.conf"
+                                    "label": "~/.config/polybar/themes/rainbow-slashes.ini"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -193,6 +132,28 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/adiwalia/.config/i3/config",
+                                        "path": "/home/adiwalia/.config/i3/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/i3/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Documents/i3copy.txt",
+                                        "path": "/home/adiwalia/Documents/i3copy.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/i3copy.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/adiwalia/.config/polybar/config.ini",
                                         "path": "/home/adiwalia/.config/polybar/config.ini",
                                         "scheme": "file"
@@ -204,12 +165,56 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/polybar/polybar/scripts/weather.py",
-                                        "path": "/home/adiwalia/.config/polybar/polybar/scripts/weather.py",
+                                        "external": "file:///home/adiwalia/.config/polybar/polybar/themes/flames.ini",
+                                        "path": "/home/adiwalia/.config/polybar/polybar/themes/flames.ini",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/polybar/polybar/scripts/weather.py"
+                                    "label": "~/.config/polybar/polybar/themes/flames.ini"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/.config/polybar/polybar/themes/rainbow-slashes.ini",
+                                        "path": "/home/adiwalia/.config/polybar/polybar/themes/rainbow-slashes.ini",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/polybar/polybar/themes/rainbow-slashes.ini"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Downloads/C1_W1_Lab_1_hello_world_nn.ipynb",
+                                        "path": "/home/adiwalia/Downloads/C1_W1_Lab_1_hello_world_nn.ipynb",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/C1_W1_Lab_1_hello_world_nn.ipynb"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/.config/sublime-text/Packages/User/gg.sublime-build",
+                                        "path": "/home/adiwalia/.config/sublime-text/Packages/User/gg.sublime-build",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/sublime-text/Packages/User/gg.sublime-build"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Desktop/PercolationStats.java",
+                                        "path": "/home/adiwalia/Desktop/PercolationStats.java",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/PercolationStats.java"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -396,10 +401,6 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -595,8 +596,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -1352,11 +1352,6 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
-            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1748,7 +1743,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 192,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
