@@ -1,8 +1,8 @@
-audio.crossfade_v2=true
-audio.allow_downgrade=false
 audio.play_bitrate_non_metered_migrated=true
+audio.allow_downgrade=false
+audio.crossfade_v2=true
 audio.play_bitrate_enumeration=4
 ui.hide_hpto=true
 audio.play_bitrate_non_metered_enumeration=4
 audio.crossfade.time_v2=525
-app.player.volume=49327
+app.player.volume=54865

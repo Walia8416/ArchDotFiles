@@ -1,0 +1,221 @@
+{
+   "checksum": "af50c2b45c8b8034225eff383d1f2b81",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13339669651000000",
+               "date_last_used": "0",
+               "guid": "a34186f6-10e8-48f7-8906-ee44a6aeb6e3",
+               "id": "6",
+               "name": "VIT Mail",
+               "type": "url",
+               "url": "https://mail.google.com/mail/u/1/#inbox"
+            }, {
+               "date_added": "13339618787000000",
+               "date_last_used": "0",
+               "guid": "448caa70-5e29-4fef-8873-7cf275357486",
+               "id": "7",
+               "name": "VIT Login",
+               "type": "url",
+               "url": "http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.gstatic.com/generate_204"
+            }, {
+               "date_added": "13339619618000000",
+               "date_last_used": "0",
+               "guid": "ec511a00-28ae-49a6-8812-833638ac098f",
+               "id": "8",
+               "name": "VTOP",
+               "type": "url",
+               "url": "https://vtop.vit.ac.in/vtop/open/page"
+            }, {
+               "date_added": "13339789818000000",
+               "date_last_used": "0",
+               "guid": "72c8b928-a139-4a49-8b5d-cedb63094e2b",
+               "id": "9",
+               "name": "MEGA",
+               "type": "url",
+               "url": "https://mega.nz/folder/1hhnCJ7Z#cFAcZDTd0OqLWU7S3I34Zw/folder/B14nyCSS"
+            }, {
+               "date_added": "13339669385000000",
+               "date_last_used": "0",
+               "guid": "c9976789-59a1-4150-9979-020b30ee2203",
+               "id": "10",
+               "name": "Moodle",
+               "type": "url",
+               "url": "https://moovit.vit.ac.in/"
+            }, {
+               "date_added": "13339692385000000",
+               "date_last_used": "0",
+               "guid": "176485d4-e663-4ba4-b150-4b00ca5d3cdf",
+               "id": "11",
+               "name": "Whatsapp",
+               "type": "url",
+               "url": "https://web.whatsapp.com/"
+            }, {
+               "date_added": "13339790223000000",
+               "date_last_used": "0",
+               "guid": "a91f3c3b-0245-46d2-b8c7-96d9020304c4",
+               "id": "12",
+               "name": "Github",
+               "type": "url",
+               "url": "https://github.com/Walia8416"
+            }, {
+               "date_added": "13339790425000000",
+               "date_last_used": "13343656528230315",
+               "guid": "b430602f-af65-452b-940e-a88b31180196",
+               "id": "13",
+               "name": "Noise",
+               "type": "url",
+               "url": "https://mynoise.net/NoiseMachines/forty40HzBrainwaveGenerator.php"
+            }, {
+               "date_added": "13339791914000000",
+               "date_last_used": "0",
+               "guid": "0f8d224e-7da5-45aa-adb8-aa832048eb64",
+               "id": "14",
+               "name": "LeetCode",
+               "type": "url",
+               "url": "https://leetcode.com/problemset/all/"
+            } ],
+            "date_added": "13343655379345414",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "5b9fabd7-9da0-40a2-b5fc-22a4f7785c12",
+            "id": "5",
+            "name": "Speed Dial",
+            "type": "folder"
+         }, {
+            "date_added": "13339789838000000",
+            "date_last_used": "13343656514063179",
+            "guid": "9e5ddfeb-2a3c-4084-9087-88b17dd91e97",
+            "id": "25",
+            "name": "MEGA",
+            "type": "url",
+            "url": "https://mega.nz/folder/qRwVlQwL#1CkeN-VPsr3xG5hhF-y2lA/folder/nIxGzbyI"
+         }, {
+            "date_added": "13339618727000000",
+            "date_last_used": "0",
+            "guid": "46342867-3a6b-4b14-ab98-12a15b022f04",
+            "id": "26",
+            "name": "Pronto Authentication",
+            "type": "url",
+            "url": "http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.gstatic.com/generate_204"
+         }, {
+            "date_added": "13339618761000000",
+            "date_last_used": "0",
+            "guid": "a3c15098-ce8b-495f-a4f8-d732710dd425",
+            "id": "27",
+            "name": "polybar · master · FOSS King / My Config Files · GitLab",
+            "type": "url",
+            "url": "https://gitlab.com/GitMaster210/my-config-files/-/tree/master/polybar?ref_type=heads"
+         }, {
+            "date_added": "13339619609000000",
+            "date_last_used": "0",
+            "guid": "6b5909d6-ab93-4242-928c-63c5bd40eb1b",
+            "id": "28",
+            "name": "VIT Vellore - VTOP",
+            "type": "url",
+            "url": "https://vtop.vit.ac.in/vtop/open/page"
+         }, {
+            "date_added": "13339791551000000",
+            "date_last_used": "0",
+            "guid": "10858460-ca38-4434-88e5-d0ff6e820fd4",
+            "id": "29",
+            "name": "Free Plagiarism Checker Online for Students - PapersOwl",
+            "type": "url",
+            "url": "https://papersowl.com/free-plagiarism-checker"
+         }, {
+            "date_added": "13340521475000000",
+            "date_last_used": "0",
+            "guid": "cd6859a2-f0a6-448f-94a0-137e8ceedc0d",
+            "id": "30",
+            "name": "Dashboard – NVIDIA",
+            "type": "url",
+            "url": "https://courses.nvidia.com/dashboard/"
+         }, {
+            "date_added": "13340717565000000",
+            "date_last_used": "0",
+            "guid": "7e96cd30-9f96-4fa5-8773-b43a95a9afbf",
+            "id": "31",
+            "name": "file:///home/adiwalia/Documents/William%20S.%20Vincent%20-%20Django%20for%20APIs_%20Build%20web%20APIs%20with%20Python%20and%20Django%204.0-leanpub.com%20(2022).pdf",
+            "type": "url",
+            "url": "file:///home/adiwalia/Documents/William%20S.%20Vincent%20-%20Django%20for%20APIs_%20Build%20web%20APIs%20with%20Python%20and%20Django%204.0-leanpub.com%20(2022).pdf"
+         }, {
+            "date_added": "13341433096000000",
+            "date_last_used": "0",
+            "guid": "aeb45e37-ad8d-47bd-9a8a-1669f6e1b044",
+            "id": "32",
+            "name": "file:///home/adiwalia/Downloads/lit%20review%201%20(3)%20(3).pdf",
+            "type": "url",
+            "url": "file:///home/adiwalia/Downloads/lit%20review%201%20(3)%20(3).pdf"
+         }, {
+            "date_added": "13342094544000000",
+            "date_last_used": "0",
+            "guid": "daa67322-d619-445e-91f8-9131c9b5e734",
+            "id": "33",
+            "name": "Master Theorem (With Examples)",
+            "type": "url",
+            "url": "https://www.programiz.com/dsa/master-theorem"
+         }, {
+            "date_added": "13342605716000000",
+            "date_last_used": "0",
+            "guid": "3c0b4370-e456-4fd4-86b2-a798bbcbe610",
+            "id": "34",
+            "name": "HN Hiring",
+            "type": "url",
+            "url": "http://www.hnhiring.me/"
+         }, {
+            "date_added": "13342800638000000",
+            "date_last_used": "0",
+            "guid": "cf1c1239-4ac1-48bf-93d2-ad1f63c7a7d2",
+            "id": "35",
+            "name": "VIT - VTOP REGISTRATION",
+            "type": "url",
+            "url": "https://vtopreg.vit.ac.in/grasp/"
+         }, {
+            "date_added": "13343568373000000",
+            "date_last_used": "0",
+            "guid": "811c67c9-73c3-4a81-8485-4971742bfebc",
+            "id": "36",
+            "name": "Render Dashboard",
+            "type": "url",
+            "url": "https://dashboard.render.com/"
+         }, {
+            "date_added": "13343568418000000",
+            "date_last_used": "0",
+            "guid": "d696c138-d14b-4e29-bfeb-69e49e364dad",
+            "id": "37",
+            "name": "Free Hosting a Python API. Hosting a Python Django Backend REST… | by Trần Hoàng Long | Medium",
+            "type": "url",
+            "url": "https://medium.com/@produde/free-hosting-a-python-api-632968f14b20"
+         } ],
+         "date_added": "13343655372006901",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13343655372006919",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13343655372006921",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

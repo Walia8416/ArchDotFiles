@@ -3,11 +3,15 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/adiwalia/Documents/DSA/GFG": "__default__profile__",
-            "file:///home/adiwalia/Documents/DjangoProj": "__default__profile__"
+            "file:///home/adiwalia/Documents/DjangoProj": "__default__profile__",
+            "file:///home/adiwalia/Documents/OpenCV-SudokuSolver/SudokuSystem": "__default__profile__",
+            "file:///home/adiwalia/Documents/OpenCV-SudokuSolver": "__default__profile__",
+            "file:///home/adiwalia/Paying-Guest": "__default__profile__",
+            "file:///home/adiwalia/Documents/ToDo": "__default__profile__",
+            "file:///home/adiwalia/Documents/Blog": "__default__profile__",
+            "file:///home/adiwalia/Documents/SudokuSolverBackend": "__default__profile__"
         },
-        "emptyWindows": {
-            "1696154783556": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "2755f985ccc79e5e9fec13f2f4308ad4f8e5d15740dd4396b418e93360506c7f",
@@ -16,20 +20,20 @@
         "folders": [
             {
                 "folderUri": "file:///home/adiwalia/Documents/DjangoProj"
+            },
+            {
+                "folderUri": "file:///home/adiwalia/Documents/SudokuSolverBackend"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1696154783556"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/1696154783556",
+            "folder": "file:///home/adiwalia/Documents/SudokuSolverBackend",
+            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/504f33d1cd7d507f0f2bd6bfd981cf43",
             "uiState": {
                 "mode": 1,
-                "x": 971,
+                "x": 19,
                 "y": 45,
                 "width": 930,
                 "height": 1016
@@ -75,11 +79,76 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Documents/SudokuSolverBackend",
+                                        "path": "/home/adiwalia/Documents/SudokuSolverBackend",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/SudokuSolverBackend"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Documents/Blog",
+                                        "path": "/home/adiwalia/Documents/Blog",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Blog"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Documents/ToDo",
+                                        "path": "/home/adiwalia/Documents/ToDo",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/ToDo"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Paying-Guest",
+                                        "path": "/home/adiwalia/Paying-Guest",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Paying-Guest"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Documents/OpenCV-SudokuSolver",
+                                        "path": "/home/adiwalia/Documents/OpenCV-SudokuSolver",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/OpenCV-SudokuSolver"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Documents/OpenCV-SudokuSolver/SudokuSystem",
+                                        "path": "/home/adiwalia/Documents/OpenCV-SudokuSolver/SudokuSystem",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/OpenCV-SudokuSolver/SudokuSystem"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -110,111 +179,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/polybar/themes/rainbow-slashes.ini",
-                                        "path": "/home/adiwalia/.config/polybar/themes/rainbow-slashes.ini",
+                                        "external": "file:///home/adiwalia/Documents/SudokuSolverBackend/Pipfile",
+                                        "path": "/home/adiwalia/Documents/SudokuSolverBackend/Pipfile",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/polybar/themes/rainbow-slashes.ini"
+                                    "label": "~/Documents/SudokuSolverBackend/Pipfile"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/polybar/launch.sh",
-                                        "path": "/home/adiwalia/.config/polybar/launch.sh",
+                                        "external": "file:///home/adiwalia/Desktop/token.txt",
+                                        "path": "/home/adiwalia/Desktop/token.txt",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/polybar/launch.sh"
+                                    "label": "~/Desktop/token.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/i3/config",
-                                        "path": "/home/adiwalia/.config/i3/config",
+                                        "external": "file:///home/adiwalia/Documents/ToDo/%2C",
+                                        "path": "/home/adiwalia/Documents/ToDo/,",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/i3/config"
+                                    "label": "~/Documents/ToDo/,"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/Documents/i3copy.txt",
-                                        "path": "/home/adiwalia/Documents/i3copy.txt",
+                                        "external": "file:///home/adiwalia/Documents/OpenCV-SudokuSolver/package.json",
+                                        "path": "/home/adiwalia/Documents/OpenCV-SudokuSolver/package.json",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/i3copy.txt"
+                                    "label": "~/Documents/OpenCV-SudokuSolver/package.json"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/polybar/config.ini",
-                                        "path": "/home/adiwalia/.config/polybar/config.ini",
+                                        "external": "file:///home/adiwalia/Documents/OpenCV-SudokuSolver/gg.py",
+                                        "path": "/home/adiwalia/Documents/OpenCV-SudokuSolver/gg.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/polybar/config.ini"
+                                    "label": "~/Documents/OpenCV-SudokuSolver/gg.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/polybar/polybar/themes/flames.ini",
-                                        "path": "/home/adiwalia/.config/polybar/polybar/themes/flames.ini",
+                                        "external": "file:///home/adiwalia/Documents/sudokuDetector.py",
+                                        "path": "/home/adiwalia/Documents/sudokuDetector.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/polybar/polybar/themes/flames.ini"
+                                    "label": "~/Documents/sudokuDetector.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/polybar/polybar/themes/rainbow-slashes.ini",
-                                        "path": "/home/adiwalia/.config/polybar/polybar/themes/rainbow-slashes.ini",
+                                        "external": "file:///home/adiwalia/Downloads/S0167923613000651.txt",
+                                        "path": "/home/adiwalia/Downloads/S0167923613000651.txt",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/polybar/polybar/themes/rainbow-slashes.ini"
+                                    "label": "~/Downloads/S0167923613000651.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/Downloads/C1_W1_Lab_1_hello_world_nn.ipynb",
-                                        "path": "/home/adiwalia/Downloads/C1_W1_Lab_1_hello_world_nn.ipynb",
+                                        "external": "file:///home/adiwalia/Downloads/S187775031100007X.txt",
+                                        "path": "/home/adiwalia/Downloads/S187775031100007X.txt",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/C1_W1_Lab_1_hello_world_nn.ipynb"
+                                    "label": "~/Downloads/S187775031100007X.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/.config/sublime-text/Packages/User/gg.sublime-build",
-                                        "path": "/home/adiwalia/.config/sublime-text/Packages/User/gg.sublime-build",
+                                        "external": "file:///home/adiwalia/Downloads/10.1007_s10115-017-1134-1-citation.ris",
+                                        "path": "/home/adiwalia/Downloads/10.1007_s10115-017-1134-1-citation.ris",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/sublime-text/Packages/User/gg.sublime-build"
+                                    "label": "~/Downloads/10.1007_s10115-017-1134-1-citation.ris"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/Desktop/PercolationStats.java",
-                                        "path": "/home/adiwalia/Desktop/PercolationStats.java",
+                                        "external": "file:///home/adiwalia/Downloads/S1877050918308433.txt",
+                                        "path": "/home/adiwalia/Downloads/S1877050918308433.txt",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/PercolationStats.java"
+                                    "label": "~/Downloads/S1877050918308433.txt"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -272,6 +341,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -339,9 +415,6 @@
                                     }
                                 },
                                 {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.openSettings",
                                     "label": "&&Settings"
                                 },
@@ -401,6 +474,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -596,7 +673,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -1352,6 +1430,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1743,7 +1826,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }

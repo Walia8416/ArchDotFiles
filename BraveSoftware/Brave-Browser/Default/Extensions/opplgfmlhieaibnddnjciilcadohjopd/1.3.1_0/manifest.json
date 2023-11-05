@@ -1,0 +1,27 @@
+{
+   "author": "Rahul Davamani",
+   "background": {
+      "persistent": false,
+      "scripts": [ "./background_pages/eventPage.js" ]
+   },
+   "browser_action": {
+      "default_popup": "./popup/popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "./content_scripts/content.js", "./library/jquery.js" ],
+      "matches": [ "http://phc.prontonetworks.com/cgi-bin/authlogin*" ]
+   } ],
+   "description": "Automatically login to VIT WiFi",
+   "icons": {
+      "128": "./icons/icon128.png",
+      "16": "./icons/icon16.png",
+      "48": "./icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreJosT/a9/8yWKaTKq5LC6ZJ56mStW6KS2vvQyJg7gEjZqCbb6EmCU62lGEAhZhNYzE17a6JGMnBzxJJQOosq+efB7QMjWBVi61Jz56N1/rzqjXH5toM6RxWOWibg1aWKXgpJxJ5eoLT3Z3lOrq6x15xxFmTRpR6fXeedLiiItUWr9rMzEiPvBpJWdy6wutVtHmwR+Cd6UkNflG+eDVKdJrtED95ThhLUGiSCCu+pl+9cuam9fZxM1JsWGXZkz54+r3CjH6BOryDH2Aq834ncwUMWbxWvCeFdOlKOWAmuYzkwLNcOFjumRaZ/waF58o/dJbmQSMOSA8vJEFxf3KemwIDAQAB",
+   "manifest_version": 2,
+   "name": "VIT WiFi Auto Login",
+   "permissions": [ "storage", "notifications" ],
+   "short_name": "VIT WiFi",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.1"
+}

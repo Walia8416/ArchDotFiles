@@ -1,0 +1,9 @@
+2023/10/29-12:59:48.071 4eed5 Reusing MANIFEST /home/adiwalia/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/10/29-12:59:48.071 4eed5 Recovering log #4
+2023/10/29-12:59:48.072 4eed5 Reusing old log /home/adiwalia/.config/discord/Local Storage/leveldb/000004.log 
+2023/10/29-13:07:30.139 6cbe8 Level-0 table #8: started
+2023/10/29-13:07:30.193 6cbe8 Level-0 table #8: 4034017 bytes OK
+2023/10/29-13:07:30.198 6cbe8 Delete type=0 #4
+2023/10/29-14:46:59.764 1e1964 Level-0 table #10: started
+2023/10/29-14:46:59.786 1e1964 Level-0 table #10: 17865 bytes OK
+2023/10/29-14:46:59.791 1e1964 Delete type=0 #7

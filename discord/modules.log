@@ -1,0 +1,1293 @@
+2023-10-07T15:19:51.253Z [Modules] Modules initializing
+2023-10-07T15:19:51.254Z [Modules] Distribution: remote
+2023-10-07T15:19:51.255Z [Modules] Host updates: enabled
+2023-10-07T15:19:51.255Z [Modules] Module updates: enabled
+2023-10-07T15:19:51.257Z [Modules] Module install path: /home/adiwalia/.config/discord/0.0.31/modules
+2023-10-07T15:19:51.257Z [Modules] Module installed file path: /home/adiwalia/.config/discord/0.0.31/modules/installed.json
+2023-10-07T15:19:51.259Z [Modules] Module download path: /home/adiwalia/.config/discord/0.0.31/modules/pending
+2023-10-07T15:19:51.582Z [Modules] Bootstrapping...
+2023-10-07T15:19:51.591Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-10-07T15:19:51.602Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-10-07T15:19:51.603Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-10-07T15:19:51.606Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-10-07T15:19:51.610Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-10-07T15:19:51.615Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-10-07T15:19:51.616Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-10-07T15:19:51.619Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-10-07T15:19:51.620Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-10-07T15:19:51.624Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-10-07T15:19:51.625Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-10-07T15:19:51.626Z [Modules] Checking for host updates.
+2023-10-07T15:19:52.119Z [Modules] Host is up to date.
+2023-10-07T15:19:52.120Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-07T15:19:52.214Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-10-07T15:19:52.214Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-10-07T15:19:52.214Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-10-07T15:19:52.215Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-10-07T15:19:52.215Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-10-07T15:19:52.215Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-10-07T15:19:52.215Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip
+2023-10-07T15:20:00.731Z [Modules] Modules initializing
+2023-10-07T15:20:00.731Z [Modules] Distribution: remote
+2023-10-07T15:20:00.732Z [Modules] Host updates: enabled
+2023-10-07T15:20:00.732Z [Modules] Module updates: enabled
+2023-10-07T15:20:00.733Z [Modules] Module install path: /home/adiwalia/.config/discord/0.0.31/modules
+2023-10-07T15:20:00.733Z [Modules] Module installed file path: /home/adiwalia/.config/discord/0.0.31/modules/installed.json
+2023-10-07T15:20:00.733Z [Modules] Module download path: /home/adiwalia/.config/discord/0.0.31/modules/pending
+2023-10-07T15:20:00.908Z [Modules] No updates to install
+2023-10-07T15:20:00.909Z [Modules] Checking for host updates.
+2023-10-07T15:20:01.412Z [Modules] Host is up to date.
+2023-10-07T15:20:01.413Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-07T15:20:01.838Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-10-07T15:20:01.838Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-10-07T15:20:01.838Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-10-07T15:20:01.838Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-10-07T15:20:01.838Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-10-07T15:20:01.838Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-10-07T15:20:01.839Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip
+2023-10-07T15:20:02.401Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 1%
+2023-10-07T15:20:02.405Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 2%
+2023-10-07T15:20:02.459Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 3%
+2023-10-07T15:20:02.461Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 4%
+2023-10-07T15:20:02.477Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 5%
+2023-10-07T15:20:02.511Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 6%
+2023-10-07T15:20:02.514Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 7%
+2023-10-07T15:20:02.525Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 9%
+2023-10-07T15:20:02.534Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 10%
+2023-10-07T15:20:02.536Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 12%
+2023-10-07T15:20:02.572Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 15%
+2023-10-07T15:20:02.577Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 18%
+2023-10-07T15:20:02.588Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 20%
+2023-10-07T15:20:02.591Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 22%
+2023-10-07T15:20:02.597Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 24%
+2023-10-07T15:20:02.602Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 25%
+2023-10-07T15:20:02.606Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 27%
+2023-10-07T15:20:02.618Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 28%
+2023-10-07T15:20:02.622Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 30%
+2023-10-07T15:20:02.633Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 31%
+2023-10-07T15:20:02.638Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 32%
+2023-10-07T15:20:02.640Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 33%
+2023-10-07T15:20:02.647Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 34%
+2023-10-07T15:20:02.650Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 36%
+2023-10-07T15:20:02.655Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 38%
+2023-10-07T15:20:02.659Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 39%
+2023-10-07T15:20:02.664Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 42%
+2023-10-07T15:20:02.668Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 45%
+2023-10-07T15:20:02.670Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 46%
+2023-10-07T15:20:02.673Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 47%
+2023-10-07T15:20:02.676Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 49%
+2023-10-07T15:20:02.681Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 51%
+2023-10-07T15:20:02.687Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 54%
+2023-10-07T15:20:02.690Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 55%
+2023-10-07T15:20:02.692Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 57%
+2023-10-07T15:20:02.692Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 58%
+2023-10-07T15:20:02.694Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 61%
+2023-10-07T15:20:02.696Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 64%
+2023-10-07T15:20:02.699Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 67%
+2023-10-07T15:20:02.702Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 70%
+2023-10-07T15:20:02.905Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 72%
+2023-10-07T15:20:02.907Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 73%
+2023-10-07T15:20:02.914Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 75%
+2023-10-07T15:20:02.915Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 76%
+2023-10-07T15:20:02.918Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 77%
+2023-10-07T15:20:02.920Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 79%
+2023-10-07T15:20:02.923Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 81%
+2023-10-07T15:20:02.927Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 83%
+2023-10-07T15:20:02.929Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 84%
+2023-10-07T15:20:02.933Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 87%
+2023-10-07T15:20:02.936Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 89%
+2023-10-07T15:20:02.938Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 91%
+2023-10-07T15:20:02.944Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 95%
+2023-10-07T15:20:02.946Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 96%
+2023-10-07T15:20:02.947Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 98%
+2023-10-07T15:20:02.950Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip: 100%
+2023-10-07T15:20:02.953Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-10-07T15:20:02.953Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip
+2023-10-07T15:20:03.423Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 13%
+2023-10-07T15:20:03.428Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 17%
+2023-10-07T15:20:03.430Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 21%
+2023-10-07T15:20:03.431Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 26%
+2023-10-07T15:20:03.432Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 29%
+2023-10-07T15:20:03.434Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 32%
+2023-10-07T15:20:03.455Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 35%
+2023-10-07T15:20:03.456Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 41%
+2023-10-07T15:20:03.457Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 44%
+2023-10-07T15:20:03.458Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 51%
+2023-10-07T15:20:03.503Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 52%
+2023-10-07T15:20:03.514Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 53%
+2023-10-07T15:20:03.516Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 54%
+2023-10-07T15:20:03.539Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 58%
+2023-10-07T15:20:03.539Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 61%
+2023-10-07T15:20:03.545Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 64%
+2023-10-07T15:20:03.550Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 67%
+2023-10-07T15:20:03.552Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 68%
+2023-10-07T15:20:03.561Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 71%
+2023-10-07T15:20:03.563Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 76%
+2023-10-07T15:20:03.564Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 78%
+2023-10-07T15:20:03.565Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 79%
+2023-10-07T15:20:03.576Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 88%
+2023-10-07T15:20:03.582Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 91%
+2023-10-07T15:20:03.585Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 93%
+2023-10-07T15:20:03.588Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 96%
+2023-10-07T15:20:03.590Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip: 100%
+2023-10-07T15:20:03.594Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-10-07T15:20:03.597Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip
+2023-10-07T15:20:04.014Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 1%
+2023-10-07T15:20:04.030Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 2%
+2023-10-07T15:20:04.038Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 3%
+2023-10-07T15:20:04.045Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 4%
+2023-10-07T15:20:04.057Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 5%
+2023-10-07T15:20:04.063Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 6%
+2023-10-07T15:20:04.071Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 7%
+2023-10-07T15:20:04.072Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 8%
+2023-10-07T15:20:04.078Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 9%
+2023-10-07T15:20:04.080Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 10%
+2023-10-07T15:20:04.098Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 11%
+2023-10-07T15:20:04.102Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 12%
+2023-10-07T15:20:04.107Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 13%
+2023-10-07T15:20:04.113Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 14%
+2023-10-07T15:20:04.116Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 15%
+2023-10-07T15:20:04.118Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 16%
+2023-10-07T15:20:04.126Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 17%
+2023-10-07T15:20:04.129Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 18%
+2023-10-07T15:20:04.130Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 19%
+2023-10-07T15:20:04.136Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 20%
+2023-10-07T15:20:04.151Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 21%
+2023-10-07T15:20:04.158Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 22%
+2023-10-07T15:20:04.161Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 23%
+2023-10-07T15:20:04.164Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 24%
+2023-10-07T15:20:04.166Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 25%
+2023-10-07T15:20:04.170Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 26%
+2023-10-07T15:20:04.182Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 27%
+2023-10-07T15:20:04.185Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 28%
+2023-10-07T15:20:04.190Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 29%
+2023-10-07T15:20:04.194Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 30%
+2023-10-07T15:20:04.198Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 31%
+2023-10-07T15:20:04.199Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 32%
+2023-10-07T15:20:04.202Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 33%
+2023-10-07T15:20:04.203Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 34%
+2023-10-07T15:20:04.206Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 35%
+2023-10-07T15:20:04.213Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 36%
+2023-10-07T15:20:04.220Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 37%
+2023-10-07T15:20:04.239Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 38%
+2023-10-07T15:20:04.264Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 39%
+2023-10-07T15:20:04.268Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 41%
+2023-10-07T15:20:04.269Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 42%
+2023-10-07T15:20:04.271Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 43%
+2023-10-07T15:20:04.273Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 44%
+2023-10-07T15:20:04.278Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 45%
+2023-10-07T15:20:04.279Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 46%
+2023-10-07T15:20:04.282Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 47%
+2023-10-07T15:20:04.285Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 48%
+2023-10-07T15:20:04.289Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 49%
+2023-10-07T15:20:04.294Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 50%
+2023-10-07T15:20:04.297Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 51%
+2023-10-07T15:20:04.301Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 52%
+2023-10-07T15:20:04.303Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 53%
+2023-10-07T15:20:04.311Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 54%
+2023-10-07T15:20:04.387Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 56%
+2023-10-07T15:20:04.390Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 57%
+2023-10-07T15:20:04.398Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 58%
+2023-10-07T15:20:04.405Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 62%
+2023-10-07T15:20:04.406Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 64%
+2023-10-07T15:20:04.596Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 65%
+2023-10-07T15:20:04.598Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 66%
+2023-10-07T15:20:04.600Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 67%
+2023-10-07T15:20:04.601Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 68%
+2023-10-07T15:20:04.602Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 69%
+2023-10-07T15:20:04.603Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 70%
+2023-10-07T15:20:04.605Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 71%
+2023-10-07T15:20:04.608Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 78%
+2023-10-07T15:20:04.609Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 79%
+2023-10-07T15:20:04.849Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 80%
+2023-10-07T15:20:04.874Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 81%
+2023-10-07T15:20:04.887Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 82%
+2023-10-07T15:20:04.893Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 83%
+2023-10-07T15:20:04.901Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 84%
+2023-10-07T15:20:04.946Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 87%
+2023-10-07T15:20:04.951Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 88%
+2023-10-07T15:20:05.020Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 89%
+2023-10-07T15:20:05.021Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 90%
+2023-10-07T15:20:05.030Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 91%
+2023-10-07T15:20:05.031Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 94%
+2023-10-07T15:20:05.034Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 98%
+2023-10-07T15:20:05.036Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip: 100%
+2023-10-07T15:20:05.037Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-10-07T15:20:05.037Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip
+2023-10-07T15:20:05.478Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 1%
+2023-10-07T15:20:05.481Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 3%
+2023-10-07T15:20:05.483Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 4%
+2023-10-07T15:20:05.487Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 5%
+2023-10-07T15:20:05.489Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 6%
+2023-10-07T15:20:05.493Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 7%
+2023-10-07T15:20:05.495Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 9%
+2023-10-07T15:20:05.499Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 11%
+2023-10-07T15:20:05.502Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 13%
+2023-10-07T15:20:05.530Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 14%
+2023-10-07T15:20:05.531Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 17%
+2023-10-07T15:20:05.532Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 19%
+2023-10-07T15:20:05.532Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 21%
+2023-10-07T15:20:05.534Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 23%
+2023-10-07T15:20:05.617Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 25%
+2023-10-07T15:20:05.617Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 26%
+2023-10-07T15:20:05.619Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 28%
+2023-10-07T15:20:05.623Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 29%
+2023-10-07T15:20:05.628Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 30%
+2023-10-07T15:20:05.876Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 31%
+2023-10-07T15:20:05.877Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 33%
+2023-10-07T15:20:05.879Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 35%
+2023-10-07T15:20:05.880Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 41%
+2023-10-07T15:20:05.881Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 52%
+2023-10-07T15:20:05.882Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 57%
+2023-10-07T15:20:05.883Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 61%
+2023-10-07T15:20:05.884Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 63%
+2023-10-07T15:20:05.884Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 69%
+2023-10-07T15:20:05.886Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 71%
+2023-10-07T15:20:05.888Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 72%
+2023-10-07T15:20:05.890Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 73%
+2023-10-07T15:20:05.938Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 74%
+2023-10-07T15:20:05.941Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 76%
+2023-10-07T15:20:05.946Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 78%
+2023-10-07T15:20:05.959Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 80%
+2023-10-07T15:20:05.962Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 82%
+2023-10-07T15:20:05.963Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 83%
+2023-10-07T15:20:05.965Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 85%
+2023-10-07T15:20:05.966Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 86%
+2023-10-07T15:20:05.969Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 89%
+2023-10-07T15:20:05.980Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 95%
+2023-10-07T15:20:06.052Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 96%
+2023-10-07T15:20:06.096Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 97%
+2023-10-07T15:20:06.118Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 98%
+2023-10-07T15:20:06.127Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 99%
+2023-10-07T15:20:06.168Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip: 100%
+2023-10-07T15:20:06.169Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-10-07T15:20:06.170Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip
+2023-10-07T15:20:06.632Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 1%
+2023-10-07T15:20:06.654Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 2%
+2023-10-07T15:20:06.670Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 3%
+2023-10-07T15:20:06.680Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 4%
+2023-10-07T15:20:06.698Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 5%
+2023-10-07T15:20:06.704Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 6%
+2023-10-07T15:20:06.737Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 7%
+2023-10-07T15:20:06.824Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 8%
+2023-10-07T15:20:06.834Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 9%
+2023-10-07T15:20:06.854Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 10%
+2023-10-07T15:20:06.920Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 11%
+2023-10-07T15:20:06.921Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 13%
+2023-10-07T15:20:06.921Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 14%
+2023-10-07T15:20:06.922Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 15%
+2023-10-07T15:20:06.971Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 16%
+2023-10-07T15:20:06.975Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 17%
+2023-10-07T15:20:06.984Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 18%
+2023-10-07T15:20:07.012Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 19%
+2023-10-07T15:20:07.013Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 20%
+2023-10-07T15:20:07.031Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 21%
+2023-10-07T15:20:07.045Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 22%
+2023-10-07T15:20:07.054Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 23%
+2023-10-07T15:20:07.068Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 24%
+2023-10-07T15:20:07.079Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 25%
+2023-10-07T15:20:07.112Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 26%
+2023-10-07T15:20:07.118Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 28%
+2023-10-07T15:20:07.135Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 29%
+2023-10-07T15:20:07.150Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 30%
+2023-10-07T15:20:07.166Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 31%
+2023-10-07T15:20:07.179Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 32%
+2023-10-07T15:20:07.202Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 33%
+2023-10-07T15:20:07.216Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 34%
+2023-10-07T15:20:07.232Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 35%
+2023-10-07T15:20:07.343Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 36%
+2023-10-07T15:20:07.345Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 37%
+2023-10-07T15:20:07.346Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 38%
+2023-10-07T15:20:07.382Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 39%
+2023-10-07T15:20:07.383Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 40%
+2023-10-07T15:20:07.383Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 41%
+2023-10-07T15:20:07.385Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 43%
+2023-10-07T15:20:07.413Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 44%
+2023-10-07T15:20:07.429Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 45%
+2023-10-07T15:20:07.443Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 46%
+2023-10-07T15:20:07.467Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 47%
+2023-10-07T15:20:07.494Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 48%
+2023-10-07T15:20:07.495Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 49%
+2023-10-07T15:20:07.502Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 50%
+2023-10-07T15:20:07.512Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 51%
+2023-10-07T15:20:07.530Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 52%
+2023-10-07T15:20:07.552Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 53%
+2023-10-07T15:20:07.555Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 54%
+2023-10-07T15:20:07.568Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 55%
+2023-10-07T15:20:07.583Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 56%
+2023-10-07T15:20:07.594Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 57%
+2023-10-07T15:20:07.612Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 58%
+2023-10-07T15:20:07.626Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 59%
+2023-10-07T15:20:07.878Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 60%
+2023-10-07T15:20:07.905Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 61%
+2023-10-07T15:20:07.925Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 62%
+2023-10-07T15:20:08.018Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 63%
+2023-10-07T15:20:08.020Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 64%
+2023-10-07T15:20:08.024Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 65%
+2023-10-07T15:20:08.031Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 66%
+2023-10-07T15:20:08.041Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 67%
+2023-10-07T15:20:08.047Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 68%
+2023-10-07T15:20:08.060Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 69%
+2023-10-07T15:20:08.072Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 70%
+2023-10-07T15:20:08.096Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 71%
+2023-10-07T15:20:08.110Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 72%
+2023-10-07T15:20:08.121Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 73%
+2023-10-07T15:20:08.132Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 74%
+2023-10-07T15:20:08.188Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 75%
+2023-10-07T15:20:08.196Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 76%
+2023-10-07T15:20:08.199Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 77%
+2023-10-07T15:20:08.201Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 78%
+2023-10-07T15:20:08.203Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 79%
+2023-10-07T15:20:08.224Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 81%
+2023-10-07T15:20:08.252Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 82%
+2023-10-07T15:20:08.280Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 83%
+2023-10-07T15:20:08.293Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 84%
+2023-10-07T15:20:08.308Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 85%
+2023-10-07T15:20:08.320Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 86%
+2023-10-07T15:20:08.328Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 87%
+2023-10-07T15:20:08.341Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 88%
+2023-10-07T15:20:08.353Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 89%
+2023-10-07T15:20:08.366Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 90%
+2023-10-07T15:20:08.407Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 91%
+2023-10-07T15:20:08.410Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 93%
+2023-10-07T15:20:08.440Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 94%
+2023-10-07T15:20:08.446Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 95%
+2023-10-07T15:20:08.464Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 96%
+2023-10-07T15:20:08.512Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 97%
+2023-10-07T15:20:08.516Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 98%
+2023-10-07T15:20:08.517Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 99%
+2023-10-07T15:20:08.520Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip: 100%
+2023-10-07T15:20:08.522Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-10-07T15:20:08.522Z [Modules] Installing updates...
+2023-10-07T15:20:08.523Z [Modules] Installing discord_desktop_core@1 from /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_desktop_core-1.zip
+2023-10-07T15:20:08.795Z [Modules] Installing discord_erlpack@1 from /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_erlpack-1.zip
+2023-10-07T15:20:08.940Z [Modules] Installing discord_spellcheck@1 from /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_spellcheck-1.zip
+2023-10-07T15:20:11.361Z [Modules] Installing discord_utils@1 from /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_utils-1.zip
+2023-10-07T15:20:13.093Z [Modules] Installing discord_voice@1 from /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_voice-1.zip
+2023-10-07T15:20:14.533Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-10-07T15:20:14.534Z [Modules] Checking for host updates.
+2023-10-07T15:20:14.969Z [Modules] Host is up to date.
+2023-10-07T15:20:14.969Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-07T15:20:14.983Z [Modules] No module updates available.
+2023-10-07T15:20:19.462Z [Modules] Starting to install discord_krisp...
+2023-10-07T15:20:19.463Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-10-07T15:20:19.463Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip
+2023-10-07T15:20:19.496Z [Modules] Starting to install discord_game_utils...
+2023-10-07T15:20:19.937Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 1%
+2023-10-07T15:20:19.978Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 2%
+2023-10-07T15:20:19.987Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 3%
+2023-10-07T15:20:20.334Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 4%
+2023-10-07T15:20:20.335Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 5%
+2023-10-07T15:20:20.345Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 6%
+2023-10-07T15:20:20.364Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 7%
+2023-10-07T15:20:20.374Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 8%
+2023-10-07T15:20:20.386Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 9%
+2023-10-07T15:20:20.398Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 10%
+2023-10-07T15:20:20.492Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 11%
+2023-10-07T15:20:20.543Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 12%
+2023-10-07T15:20:20.546Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 13%
+2023-10-07T15:20:20.556Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 14%
+2023-10-07T15:20:20.566Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 15%
+2023-10-07T15:20:20.585Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 16%
+2023-10-07T15:20:20.667Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 18%
+2023-10-07T15:20:20.681Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 21%
+2023-10-07T15:20:20.686Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 22%
+2023-10-07T15:20:20.692Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 23%
+2023-10-07T15:20:20.741Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 24%
+2023-10-07T15:20:20.756Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 25%
+2023-10-07T15:20:20.779Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 26%
+2023-10-07T15:20:20.798Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 27%
+2023-10-07T15:20:20.806Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 28%
+2023-10-07T15:20:20.821Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 29%
+2023-10-07T15:20:20.831Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 30%
+2023-10-07T15:20:20.870Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 31%
+2023-10-07T15:20:20.872Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 32%
+2023-10-07T15:20:20.880Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 33%
+2023-10-07T15:20:20.930Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 34%
+2023-10-07T15:20:20.932Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 35%
+2023-10-07T15:20:20.937Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 36%
+2023-10-07T15:20:20.948Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 37%
+2023-10-07T15:20:21.012Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 38%
+2023-10-07T15:20:21.034Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 39%
+2023-10-07T15:20:21.036Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 40%
+2023-10-07T15:20:21.045Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 41%
+2023-10-07T15:20:21.057Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 42%
+2023-10-07T15:20:21.077Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 43%
+2023-10-07T15:20:21.079Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 44%
+2023-10-07T15:20:21.081Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 45%
+2023-10-07T15:20:21.102Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 46%
+2023-10-07T15:20:21.106Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 47%
+2023-10-07T15:20:21.122Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 48%
+2023-10-07T15:20:21.171Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 49%
+2023-10-07T15:20:21.176Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 50%
+2023-10-07T15:20:21.177Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 51%
+2023-10-07T15:20:21.181Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 52%
+2023-10-07T15:20:21.185Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 53%
+2023-10-07T15:20:21.232Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 54%
+2023-10-07T15:20:21.271Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 55%
+2023-10-07T15:20:21.287Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 56%
+2023-10-07T15:20:21.310Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 58%
+2023-10-07T15:20:21.316Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 59%
+2023-10-07T15:20:21.355Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 60%
+2023-10-07T15:20:21.529Z [Modules] Checking for host updates.
+2023-10-07T15:20:21.601Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 61%
+2023-10-07T15:20:21.608Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 62%
+2023-10-07T15:20:21.633Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 63%
+2023-10-07T15:20:21.645Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 64%
+2023-10-07T15:20:21.674Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 67%
+2023-10-07T15:20:21.678Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 68%
+2023-10-07T15:20:21.697Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 69%
+2023-10-07T15:20:21.719Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 70%
+2023-10-07T15:20:21.724Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 71%
+2023-10-07T15:20:21.741Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 72%
+2023-10-07T15:20:21.753Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 73%
+2023-10-07T15:20:21.765Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 74%
+2023-10-07T15:20:21.785Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 75%
+2023-10-07T15:20:21.807Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 76%
+2023-10-07T15:20:21.827Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 77%
+2023-10-07T15:20:21.840Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 78%
+2023-10-07T15:20:21.848Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 79%
+2023-10-07T15:20:21.863Z [Modules] Host is up to date.
+2023-10-07T15:20:21.864Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-07T15:20:21.868Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 80%
+2023-10-07T15:20:21.872Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 81%
+2023-10-07T15:20:21.876Z [Modules] No module updates available.
+2023-10-07T15:20:21.882Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 82%
+2023-10-07T15:20:21.894Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 83%
+2023-10-07T15:20:21.905Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 84%
+2023-10-07T15:20:21.926Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 85%
+2023-10-07T15:20:21.958Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 86%
+2023-10-07T15:20:21.965Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 87%
+2023-10-07T15:20:21.971Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 88%
+2023-10-07T15:20:21.983Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 89%
+2023-10-07T15:20:21.999Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 90%
+2023-10-07T15:20:22.013Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 91%
+2023-10-07T15:20:22.021Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 92%
+2023-10-07T15:20:22.031Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 93%
+2023-10-07T15:20:22.053Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 94%
+2023-10-07T15:20:22.061Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 95%
+2023-10-07T15:20:22.069Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 96%
+2023-10-07T15:20:22.086Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 97%
+2023-10-07T15:20:22.097Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 98%
+2023-10-07T15:20:22.115Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 99%
+2023-10-07T15:20:22.121Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip: 100%
+2023-10-07T15:20:22.125Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-10-07T15:20:22.125Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip
+2023-10-07T15:20:22.126Z [Modules] Installing discord_krisp@1 from /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_krisp-1.zip
+2023-10-07T15:20:22.543Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 1%
+2023-10-07T15:20:22.547Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 2%
+2023-10-07T15:20:22.555Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 5%
+2023-10-07T15:20:22.556Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 6%
+2023-10-07T15:20:22.560Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 9%
+2023-10-07T15:20:22.565Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 11%
+2023-10-07T15:20:22.568Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 12%
+2023-10-07T15:20:22.570Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 14%
+2023-10-07T15:20:22.573Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 17%
+2023-10-07T15:20:22.579Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 18%
+2023-10-07T15:20:22.583Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 21%
+2023-10-07T15:20:22.583Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 23%
+2023-10-07T15:20:22.593Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 26%
+2023-10-07T15:20:22.595Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 29%
+2023-10-07T15:20:22.599Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 32%
+2023-10-07T15:20:22.603Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 33%
+2023-10-07T15:20:22.605Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 35%
+2023-10-07T15:20:22.609Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 37%
+2023-10-07T15:20:22.632Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 53%
+2023-10-07T15:20:22.636Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 55%
+2023-10-07T15:20:22.643Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 58%
+2023-10-07T15:20:22.647Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 62%
+2023-10-07T15:20:22.651Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 72%
+2023-10-07T15:20:22.653Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 77%
+2023-10-07T15:20:22.662Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 79%
+2023-10-07T15:20:22.667Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 83%
+2023-10-07T15:20:22.674Z [Modules] Starting to install discord_rpc...
+2023-10-07T15:20:22.679Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 96%
+2023-10-07T15:20:22.701Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip: 100%
+2023-10-07T15:20:22.706Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-10-07T15:20:22.706Z [Modules] Streaming discord_rpc@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_rpc-1.zip
+2023-10-07T15:20:23.230Z [Modules] Streaming discord_rpc@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_rpc-1.zip: 38%
+2023-10-07T15:20:23.238Z [Modules] Streaming discord_rpc@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_rpc-1.zip: 75%
+2023-10-07T15:20:23.247Z [Modules] Streaming discord_rpc@1 to /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_rpc-1.zip: 100%
+2023-10-07T15:20:23.247Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-10-07T15:20:23.424Z [Modules] Installing discord_game_utils@1 from /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_game_utils-1.zip
+2023-10-07T15:20:23.538Z [Modules] Installing discord_rpc@1 from /home/adiwalia/.config/discord/0.0.31/modules/pending/discord_rpc-1.zip
+2023-10-07T15:20:23.611Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-10-08T18:52:28.154Z [Modules] Modules initializing
+2023-10-08T18:52:28.154Z [Modules] Distribution: remote
+2023-10-08T18:52:28.155Z [Modules] Host updates: enabled
+2023-10-08T18:52:28.155Z [Modules] Module updates: enabled
+2023-10-08T18:52:28.155Z [Modules] Module install path: /home/adiwalia/.config/discord/0.0.31/modules
+2023-10-08T18:52:28.155Z [Modules] Module installed file path: /home/adiwalia/.config/discord/0.0.31/modules/installed.json
+2023-10-08T18:52:28.156Z [Modules] Module download path: /home/adiwalia/.config/discord/0.0.31/modules/pending
+2023-10-08T18:52:28.852Z [Modules] No updates to install
+2023-10-08T18:52:28.853Z [Modules] Checking for host updates.
+2023-10-08T18:52:30.058Z [Modules] Host is up to date.
+2023-10-08T18:52:30.060Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-08T18:52:30.283Z [Modules] No module updates available.
+2023-10-08T18:52:37.098Z [Modules] Checking for host updates.
+2023-10-08T18:52:37.662Z [Modules] Host is up to date.
+2023-10-08T18:52:37.662Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-08T18:52:37.668Z [Modules] No module updates available.
+2023-10-29T07:29:48.097Z [Modules] Modules initializing
+2023-10-29T07:29:48.097Z [Modules] Distribution: remote
+2023-10-29T07:29:48.097Z [Modules] Host updates: enabled
+2023-10-29T07:29:48.097Z [Modules] Module updates: enabled
+2023-10-29T07:29:48.098Z [Modules] Module install path: /home/adiwalia/.config/discord/0.0.32/modules
+2023-10-29T07:29:48.098Z [Modules] Module installed file path: /home/adiwalia/.config/discord/0.0.32/modules/installed.json
+2023-10-29T07:29:48.098Z [Modules] Module download path: /home/adiwalia/.config/discord/0.0.32/modules/pending
+2023-10-29T07:29:48.403Z [Modules] Bootstrapping...
+2023-10-29T07:29:48.405Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-10-29T07:29:48.407Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-10-29T07:29:48.408Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-10-29T07:29:48.409Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-10-29T07:29:48.410Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-10-29T07:29:48.413Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-10-29T07:29:48.413Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-10-29T07:29:48.420Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-10-29T07:29:48.420Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-10-29T07:29:48.425Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-10-29T07:29:48.425Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-10-29T07:29:48.426Z [Modules] Checking for host updates.
+2023-10-29T07:29:48.956Z [Modules] Host is up to date.
+2023-10-29T07:29:48.957Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-29T07:29:49.009Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-10-29T07:29:49.009Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-10-29T07:29:49.009Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-10-29T07:29:49.009Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-10-29T07:29:49.009Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-10-29T07:29:49.009Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-10-29T07:29:49.010Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip
+2023-10-29T07:29:50.496Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 1%
+2023-10-29T07:29:50.521Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 2%
+2023-10-29T07:29:50.659Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 3%
+2023-10-29T07:29:50.708Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 4%
+2023-10-29T07:29:50.768Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 5%
+2023-10-29T07:29:50.808Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 6%
+2023-10-29T07:29:50.846Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 7%
+2023-10-29T07:29:50.883Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 8%
+2023-10-29T07:29:50.911Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 9%
+2023-10-29T07:29:50.948Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 10%
+2023-10-29T07:29:50.970Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 11%
+2023-10-29T07:29:51.019Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 12%
+2023-10-29T07:29:51.039Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 13%
+2023-10-29T07:29:51.060Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 14%
+2023-10-29T07:29:51.103Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 15%
+2023-10-29T07:29:51.127Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 16%
+2023-10-29T07:29:51.148Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 17%
+2023-10-29T07:29:51.195Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 18%
+2023-10-29T07:29:51.218Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 19%
+2023-10-29T07:29:51.238Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 20%
+2023-10-29T07:29:51.282Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 21%
+2023-10-29T07:29:51.304Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 22%
+2023-10-29T07:29:51.351Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 23%
+2023-10-29T07:29:51.374Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 24%
+2023-10-29T07:29:51.396Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 25%
+2023-10-29T07:29:51.441Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 26%
+2023-10-29T07:29:51.465Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 27%
+2023-10-29T07:29:51.485Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 28%
+2023-10-29T07:29:51.532Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 29%
+2023-10-29T07:29:51.552Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 30%
+2023-10-29T07:29:51.576Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 31%
+2023-10-29T07:29:51.619Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 32%
+2023-10-29T07:29:51.644Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 33%
+2023-10-29T07:29:51.666Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 34%
+2023-10-29T07:29:51.711Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 35%
+2023-10-29T07:29:51.732Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 36%
+2023-10-29T07:29:51.755Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 37%
+2023-10-29T07:29:51.801Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 38%
+2023-10-29T07:29:51.822Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 39%
+2023-10-29T07:29:51.846Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 40%
+2023-10-29T07:29:51.893Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 41%
+2023-10-29T07:29:51.913Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 42%
+2023-10-29T07:29:51.937Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 43%
+2023-10-29T07:29:51.982Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 44%
+2023-10-29T07:29:52.001Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 45%
+2023-10-29T07:29:52.028Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 46%
+2023-10-29T07:29:52.069Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 47%
+2023-10-29T07:29:52.092Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 48%
+2023-10-29T07:29:52.115Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 49%
+2023-10-29T07:29:52.161Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 50%
+2023-10-29T07:29:52.181Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 51%
+2023-10-29T07:29:52.229Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 52%
+2023-10-29T07:29:52.251Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 53%
+2023-10-29T07:29:52.272Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 54%
+2023-10-29T07:29:52.322Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 55%
+2023-10-29T07:29:52.346Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 56%
+2023-10-29T07:29:52.363Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 57%
+2023-10-29T07:29:52.409Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 58%
+2023-10-29T07:29:52.431Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 59%
+2023-10-29T07:29:52.452Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 60%
+2023-10-29T07:29:52.497Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 61%
+2023-10-29T07:29:52.518Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 62%
+2023-10-29T07:29:52.544Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 63%
+2023-10-29T07:29:52.588Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 64%
+2023-10-29T07:29:52.609Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 65%
+2023-10-29T07:29:52.632Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 66%
+2023-10-29T07:29:52.676Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 67%
+2023-10-29T07:29:52.699Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 68%
+2023-10-29T07:29:52.724Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 69%
+2023-10-29T07:29:52.767Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 70%
+2023-10-29T07:29:52.793Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 71%
+2023-10-29T07:29:52.812Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 72%
+2023-10-29T07:29:52.858Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 73%
+2023-10-29T07:29:52.878Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 74%
+2023-10-29T07:29:52.903Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 75%
+2023-10-29T07:29:52.948Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 76%
+2023-10-29T07:29:52.971Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 77%
+2023-10-29T07:29:53.016Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 78%
+2023-10-29T07:29:53.037Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 79%
+2023-10-29T07:29:53.060Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 80%
+2023-10-29T07:29:53.169Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 83%
+2023-10-29T07:29:53.194Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 84%
+2023-10-29T07:29:53.215Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 85%
+2023-10-29T07:29:53.240Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 86%
+2023-10-29T07:29:53.283Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 87%
+2023-10-29T07:29:53.306Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 88%
+2023-10-29T07:29:53.330Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 89%
+2023-10-29T07:29:53.373Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 90%
+2023-10-29T07:29:53.395Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 91%
+2023-10-29T07:29:53.416Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 92%
+2023-10-29T07:29:53.462Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 93%
+2023-10-29T07:29:53.484Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 94%
+2023-10-29T07:29:53.514Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 95%
+2023-10-29T07:29:53.551Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 96%
+2023-10-29T07:29:53.583Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 97%
+2023-10-29T07:29:53.603Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 98%
+2023-10-29T07:29:53.642Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 99%
+2023-10-29T07:29:53.654Z [Modules] Streaming discord_desktop_core@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip: 100%
+2023-10-29T07:29:53.656Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-10-29T07:29:53.656Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip
+2023-10-29T07:29:54.296Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 1%
+2023-10-29T07:29:54.317Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 2%
+2023-10-29T07:29:54.341Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 3%
+2023-10-29T07:29:54.365Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 4%
+2023-10-29T07:29:54.385Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 5%
+2023-10-29T07:29:54.440Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 6%
+2023-10-29T07:29:54.452Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 7%
+2023-10-29T07:29:54.474Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 8%
+2023-10-29T07:29:54.497Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 9%
+2023-10-29T07:29:54.519Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 10%
+2023-10-29T07:29:54.541Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 11%
+2023-10-29T07:29:54.587Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 12%
+2023-10-29T07:29:54.609Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 13%
+2023-10-29T07:29:54.632Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 14%
+2023-10-29T07:29:54.654Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 15%
+2023-10-29T07:29:54.676Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 16%
+2023-10-29T07:29:54.700Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 17%
+2023-10-29T07:29:54.743Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 18%
+2023-10-29T07:29:54.769Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 19%
+2023-10-29T07:29:54.794Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 20%
+2023-10-29T07:29:54.819Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 21%
+2023-10-29T07:29:54.840Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 22%
+2023-10-29T07:29:54.862Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 23%
+2023-10-29T07:29:54.909Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 24%
+2023-10-29T07:29:54.931Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 25%
+2023-10-29T07:29:54.955Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 26%
+2023-10-29T07:29:54.977Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 27%
+2023-10-29T07:29:54.998Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 28%
+2023-10-29T07:29:55.022Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 29%
+2023-10-29T07:29:55.066Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 30%
+2023-10-29T07:29:55.090Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 31%
+2023-10-29T07:29:55.113Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 32%
+2023-10-29T07:29:55.131Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 33%
+2023-10-29T07:29:55.155Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 34%
+2023-10-29T07:29:55.198Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 35%
+2023-10-29T07:29:55.222Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 36%
+2023-10-29T07:29:55.246Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 37%
+2023-10-29T07:29:55.266Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 38%
+2023-10-29T07:29:55.290Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 39%
+2023-10-29T07:29:55.312Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 40%
+2023-10-29T07:29:55.357Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 41%
+2023-10-29T07:29:55.378Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 42%
+2023-10-29T07:29:55.414Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 43%
+2023-10-29T07:29:55.425Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 44%
+2023-10-29T07:29:55.446Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 45%
+2023-10-29T07:29:55.470Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 46%
+2023-10-29T07:29:55.513Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 47%
+2023-10-29T07:29:55.537Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 48%
+2023-10-29T07:29:55.559Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 49%
+2023-10-29T07:29:55.580Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 50%
+2023-10-29T07:29:55.604Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 51%
+2023-10-29T07:29:55.627Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 52%
+2023-10-29T07:29:55.672Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 53%
+2023-10-29T07:29:55.694Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 54%
+2023-10-29T07:29:55.715Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 55%
+2023-10-29T07:29:55.739Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 56%
+2023-10-29T07:29:55.760Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 57%
+2023-10-29T07:29:55.786Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 58%
+2023-10-29T07:29:55.829Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 59%
+2023-10-29T07:29:55.851Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 60%
+2023-10-29T07:29:55.874Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 61%
+2023-10-29T07:29:55.900Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 62%
+2023-10-29T07:29:55.919Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 63%
+2023-10-29T07:29:55.941Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 64%
+2023-10-29T07:29:55.986Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 65%
+2023-10-29T07:29:56.009Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 66%
+2023-10-29T07:29:56.030Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 67%
+2023-10-29T07:29:56.053Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 68%
+2023-10-29T07:29:56.075Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 69%
+2023-10-29T07:29:56.097Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 70%
+2023-10-29T07:29:56.143Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 71%
+2023-10-29T07:29:56.164Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 72%
+2023-10-29T07:29:56.188Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 73%
+2023-10-29T07:29:56.209Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 74%
+2023-10-29T07:29:56.233Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 75%
+2023-10-29T07:29:56.255Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 76%
+2023-10-29T07:29:56.300Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 77%
+2023-10-29T07:29:56.323Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 78%
+2023-10-29T07:29:56.345Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 79%
+2023-10-29T07:29:56.368Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 80%
+2023-10-29T07:29:56.390Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 81%
+2023-10-29T07:29:56.411Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 82%
+2023-10-29T07:29:56.457Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 83%
+2023-10-29T07:29:56.479Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 84%
+2023-10-29T07:29:56.502Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 85%
+2023-10-29T07:29:56.524Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 86%
+2023-10-29T07:29:56.546Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 87%
+2023-10-29T07:29:56.570Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 88%
+2023-10-29T07:29:56.613Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 89%
+2023-10-29T07:29:56.637Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 90%
+2023-10-29T07:29:56.661Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 91%
+2023-10-29T07:29:56.682Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 92%
+2023-10-29T07:29:56.705Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 93%
+2023-10-29T07:29:56.728Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 94%
+2023-10-29T07:29:56.771Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 95%
+2023-10-29T07:29:56.793Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 96%
+2023-10-29T07:29:56.817Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 97%
+2023-10-29T07:29:56.839Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 98%
+2023-10-29T07:29:56.861Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 99%
+2023-10-29T07:29:56.881Z [Modules] Streaming discord_erlpack@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip: 100%
+2023-10-29T07:29:56.882Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-10-29T07:29:56.882Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip
+2023-10-29T07:29:57.690Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 1%
+2023-10-29T07:29:57.824Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 2%
+2023-10-29T07:29:57.959Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 3%
+2023-10-29T07:29:58.095Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 4%
+2023-10-29T07:29:58.230Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 5%
+2023-10-29T07:29:58.388Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 6%
+2023-10-29T07:29:58.528Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 7%
+2023-10-29T07:29:58.656Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 8%
+2023-10-29T07:29:58.793Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 9%
+2023-10-29T07:29:58.927Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 10%
+2023-10-29T07:29:59.065Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 11%
+2023-10-29T07:29:59.224Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 12%
+2023-10-29T07:29:59.357Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 13%
+2023-10-29T07:29:59.490Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 14%
+2023-10-29T07:29:59.626Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 15%
+2023-10-29T07:29:59.761Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 16%
+2023-10-29T07:29:59.919Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 17%
+2023-10-29T07:30:00.052Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 18%
+2023-10-29T07:30:00.190Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 19%
+2023-10-29T07:30:00.322Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 20%
+2023-10-29T07:30:00.456Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 21%
+2023-10-29T07:30:00.591Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 22%
+2023-10-29T07:30:00.749Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 23%
+2023-10-29T07:30:00.884Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 24%
+2023-10-29T07:30:01.019Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 25%
+2023-10-29T07:30:01.153Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 26%
+2023-10-29T07:30:01.286Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 27%
+2023-10-29T07:30:01.444Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 28%
+2023-10-29T07:30:01.579Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 29%
+2023-10-29T07:30:01.713Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 30%
+2023-10-29T07:30:01.848Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 31%
+2023-10-29T07:30:01.982Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 32%
+2023-10-29T07:30:02.117Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 33%
+2023-10-29T07:30:02.275Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 34%
+2023-10-29T07:30:02.410Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 35%
+2023-10-29T07:30:02.545Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 36%
+2023-10-29T07:30:02.679Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 37%
+2023-10-29T07:30:02.815Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 38%
+2023-10-29T07:30:02.970Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 39%
+2023-10-29T07:30:03.106Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 40%
+2023-10-29T07:30:03.251Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 41%
+2023-10-29T07:30:03.379Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 42%
+2023-10-29T07:30:03.513Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 43%
+2023-10-29T07:30:03.646Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 44%
+2023-10-29T07:30:03.802Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 45%
+2023-10-29T07:30:03.940Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 46%
+2023-10-29T07:30:04.074Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 47%
+2023-10-29T07:30:04.208Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 48%
+2023-10-29T07:30:04.345Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 49%
+2023-10-29T07:30:04.477Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 50%
+2023-10-29T07:30:05.099Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 51%
+2023-10-29T07:30:05.233Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 52%
+2023-10-29T07:30:05.372Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 53%
+2023-10-29T07:30:05.505Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 54%
+2023-10-29T07:30:05.639Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 55%
+2023-10-29T07:30:05.774Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 56%
+2023-10-29T07:30:05.930Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 57%
+2023-10-29T07:30:06.064Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 58%
+2023-10-29T07:30:06.202Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 59%
+2023-10-29T07:30:06.335Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 60%
+2023-10-29T07:30:06.471Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 61%
+2023-10-29T07:30:06.629Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 62%
+2023-10-29T07:30:06.761Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 63%
+2023-10-29T07:30:06.895Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 64%
+2023-10-29T07:30:07.030Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 65%
+2023-10-29T07:30:07.166Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 66%
+2023-10-29T07:30:07.301Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 67%
+2023-10-29T07:30:07.458Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 68%
+2023-10-29T07:30:07.592Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 69%
+2023-10-29T07:30:07.727Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 70%
+2023-10-29T07:30:07.862Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 71%
+2023-10-29T07:30:07.999Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 72%
+2023-10-29T07:30:08.134Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 73%
+2023-10-29T07:30:08.290Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 74%
+2023-10-29T07:30:08.425Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 75%
+2023-10-29T07:30:08.561Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 76%
+2023-10-29T07:30:08.700Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 77%
+2023-10-29T07:30:08.835Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 78%
+2023-10-29T07:30:08.994Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 79%
+2023-10-29T07:30:09.129Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 80%
+2023-10-29T07:30:09.265Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 81%
+2023-10-29T07:30:09.401Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 82%
+2023-10-29T07:30:09.535Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 83%
+2023-10-29T07:30:09.672Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 84%
+2023-10-29T07:30:09.829Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 85%
+2023-10-29T07:30:09.963Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 86%
+2023-10-29T07:30:10.109Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 87%
+2023-10-29T07:30:10.232Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 88%
+2023-10-29T07:30:10.367Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 89%
+2023-10-29T07:30:10.510Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 90%
+2023-10-29T07:30:10.661Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 91%
+2023-10-29T07:30:10.796Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 92%
+2023-10-29T07:30:10.930Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 93%
+2023-10-29T07:30:11.065Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 94%
+2023-10-29T07:30:11.200Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 95%
+2023-10-29T07:30:11.362Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 96%
+2023-10-29T07:30:11.492Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 97%
+2023-10-29T07:30:11.627Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 98%
+2023-10-29T07:30:11.764Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 99%
+2023-10-29T07:30:11.890Z [Modules] Streaming discord_spellcheck@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip: 100%
+2023-10-29T07:30:11.894Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-10-29T07:30:11.894Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip
+2023-10-29T07:30:12.641Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 1%
+2023-10-29T07:30:12.700Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 2%
+2023-10-29T07:30:12.735Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 3%
+2023-10-29T07:30:12.776Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 4%
+2023-10-29T07:30:12.844Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 5%
+2023-10-29T07:30:12.898Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 6%
+2023-10-29T07:30:12.937Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 7%
+2023-10-29T07:30:12.987Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 8%
+2023-10-29T07:30:13.043Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 9%
+2023-10-29T07:30:13.124Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 10%
+2023-10-29T07:30:13.144Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 11%
+2023-10-29T07:30:13.187Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 12%
+2023-10-29T07:30:13.232Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 13%
+2023-10-29T07:30:13.301Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 14%
+2023-10-29T07:30:13.345Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 15%
+2023-10-29T07:30:13.391Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 16%
+2023-10-29T07:30:13.436Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 17%
+2023-10-29T07:30:13.489Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 18%
+2023-10-29T07:30:13.547Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 19%
+2023-10-29T07:30:13.594Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 20%
+2023-10-29T07:30:13.638Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 21%
+2023-10-29T07:30:13.681Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 22%
+2023-10-29T07:30:13.729Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 23%
+2023-10-29T07:30:13.841Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 24%
+2023-10-29T07:30:13.844Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 25%
+2023-10-29T07:30:13.884Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 26%
+2023-10-29T07:30:13.929Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 27%
+2023-10-29T07:30:13.996Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 28%
+2023-10-29T07:30:14.042Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 29%
+2023-10-29T07:30:14.086Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 30%
+2023-10-29T07:30:14.130Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 31%
+2023-10-29T07:30:14.177Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 32%
+2023-10-29T07:30:14.244Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 33%
+2023-10-29T07:30:14.289Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 34%
+2023-10-29T07:30:14.333Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 35%
+2023-10-29T07:30:14.378Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 36%
+2023-10-29T07:30:14.427Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 37%
+2023-10-29T07:30:14.548Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 39%
+2023-10-29T07:30:14.624Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 40%
+2023-10-29T07:30:14.626Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 41%
+2023-10-29T07:30:14.713Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 42%
+2023-10-29T07:30:14.756Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 43%
+2023-10-29T07:30:14.797Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 44%
+2023-10-29T07:30:14.842Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 45%
+2023-10-29T07:30:14.921Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 46%
+2023-10-29T07:30:14.967Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 47%
+2023-10-29T07:30:15.647Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 49%
+2023-10-29T07:30:15.647Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 50%
+2023-10-29T07:30:15.655Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 51%
+2023-10-29T07:30:15.782Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 53%
+2023-10-29T07:30:15.783Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 57%
+2023-10-29T07:30:15.783Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 58%
+2023-10-29T07:30:15.907Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 60%
+2023-10-29T07:30:15.908Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 62%
+2023-10-29T07:30:15.920Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 63%
+2023-10-29T07:30:15.977Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 64%
+2023-10-29T07:30:16.108Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 65%
+2023-10-29T07:30:16.113Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 66%
+2023-10-29T07:30:16.129Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 67%
+2023-10-29T07:30:16.182Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 68%
+2023-10-29T07:30:16.318Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 69%
+2023-10-29T07:30:16.324Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 70%
+2023-10-29T07:30:16.326Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 71%
+2023-10-29T07:30:16.369Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 72%
+2023-10-29T07:30:16.518Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 73%
+2023-10-29T07:30:16.521Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 74%
+2023-10-29T07:30:16.526Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 75%
+2023-10-29T07:30:16.585Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 76%
+2023-10-29T07:30:17.151Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 78%
+2023-10-29T07:30:17.170Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 80%
+2023-10-29T07:30:17.170Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 82%
+2023-10-29T07:30:17.194Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 83%
+2023-10-29T07:30:17.339Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 85%
+2023-10-29T07:30:17.341Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 86%
+2023-10-29T07:30:17.344Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 87%
+2023-10-29T07:30:17.364Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 88%
+2023-10-29T07:30:17.543Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 89%
+2023-10-29T07:30:17.548Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 91%
+2023-10-29T07:30:17.581Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 92%
+2023-10-29T07:30:17.623Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 93%
+2023-10-29T07:30:17.753Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 94%
+2023-10-29T07:30:17.758Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 95%
+2023-10-29T07:30:17.803Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 96%
+2023-10-29T07:30:17.836Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 97%
+2023-10-29T07:30:17.952Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 98%
+2023-10-29T07:30:17.956Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 99%
+2023-10-29T07:30:17.998Z [Modules] Streaming discord_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip: 100%
+2023-10-29T07:30:17.999Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-10-29T07:30:18.000Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip
+2023-10-29T07:30:19.574Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 1%
+2023-10-29T07:30:19.869Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 2%
+2023-10-29T07:30:20.139Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 3%
+2023-10-29T07:30:20.436Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 4%
+2023-10-29T07:30:20.703Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 5%
+2023-10-29T07:30:20.996Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 6%
+2023-10-29T07:30:21.265Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 7%
+2023-10-29T07:30:21.558Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 8%
+2023-10-29T07:30:21.863Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 9%
+2023-10-29T07:30:22.157Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 10%
+2023-10-29T07:30:22.450Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 11%
+2023-10-29T07:30:22.725Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 12%
+2023-10-29T07:30:23.016Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 13%
+2023-10-29T07:30:23.671Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 14%
+2023-10-29T07:30:23.964Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 15%
+2023-10-29T07:30:24.233Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 16%
+2023-10-29T07:30:24.530Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 17%
+2023-10-29T07:30:24.798Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 18%
+2023-10-29T07:30:25.086Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 19%
+2023-10-29T07:30:25.357Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 20%
+2023-10-29T07:30:25.648Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 21%
+2023-10-29T07:30:25.918Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 22%
+2023-10-29T07:30:26.211Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 23%
+2023-10-29T07:30:26.480Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 24%
+2023-10-29T07:30:26.773Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 25%
+2023-10-29T07:30:27.065Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 26%
+2023-10-29T07:30:27.334Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 27%
+2023-10-29T07:30:27.627Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 28%
+2023-10-29T07:30:27.896Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 29%
+2023-10-29T07:30:28.189Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 30%
+2023-10-29T07:30:28.481Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 31%
+2023-10-29T07:30:28.749Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 32%
+2023-10-29T07:30:29.021Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 33%
+2023-10-29T07:30:29.311Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 34%
+2023-10-29T07:30:29.581Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 35%
+2023-10-29T07:30:29.875Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 36%
+2023-10-29T07:30:30.145Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 37%
+2023-10-29T07:30:30.440Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 38%
+2023-10-29T07:30:30.731Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 39%
+2023-10-29T07:30:30.999Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 40%
+2023-10-29T07:30:31.294Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 41%
+2023-10-29T07:30:31.561Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 42%
+2023-10-29T07:30:31.854Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 43%
+2023-10-29T07:30:32.123Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 44%
+2023-10-29T07:30:32.416Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 45%
+2023-10-29T07:30:32.685Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 46%
+2023-10-29T07:30:32.976Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 47%
+2023-10-29T07:30:33.245Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 48%
+2023-10-29T07:30:33.545Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 49%
+2023-10-29T07:30:34.145Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 50%
+2023-10-29T07:30:34.438Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 51%
+2023-10-29T07:30:34.708Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 52%
+2023-10-29T07:30:35.001Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 53%
+2023-10-29T07:30:35.292Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 54%
+2023-10-29T07:30:35.560Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 55%
+2023-10-29T07:30:35.853Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 56%
+2023-10-29T07:30:36.122Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 57%
+2023-10-29T07:30:36.416Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 58%
+2023-10-29T07:30:36.685Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 59%
+2023-10-29T07:30:36.975Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 60%
+2023-10-29T07:30:37.246Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 61%
+2023-10-29T07:30:37.537Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 62%
+2023-10-29T07:30:37.806Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 63%
+2023-10-29T07:30:38.107Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 64%
+2023-10-29T07:30:38.368Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 65%
+2023-10-29T07:30:38.661Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 66%
+2023-10-29T07:30:38.930Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 67%
+2023-10-29T07:30:39.225Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 68%
+2023-10-29T07:30:39.514Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 69%
+2023-10-29T07:30:39.783Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 70%
+2023-10-29T07:30:40.076Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 71%
+2023-10-29T07:30:40.345Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 72%
+2023-10-29T07:30:40.638Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 73%
+2023-10-29T07:30:40.911Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 74%
+2023-10-29T07:30:41.202Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 75%
+2023-10-29T07:30:41.486Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 76%
+2023-10-29T07:30:41.765Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 77%
+2023-10-29T07:30:42.034Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 78%
+2023-10-29T07:30:42.327Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 79%
+2023-10-29T07:30:42.595Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 80%
+2023-10-29T07:30:42.886Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 81%
+2023-10-29T07:30:43.181Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 82%
+2023-10-29T07:30:43.448Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 83%
+2023-10-29T07:30:43.742Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 84%
+2023-10-29T07:30:44.010Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 85%
+2023-10-29T07:30:44.633Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 86%
+2023-10-29T07:30:44.921Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 87%
+2023-10-29T07:30:45.212Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 88%
+2023-10-29T07:30:45.481Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 89%
+2023-10-29T07:30:45.774Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 90%
+2023-10-29T07:30:46.043Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 91%
+2023-10-29T07:30:46.336Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 92%
+2023-10-29T07:30:46.607Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 93%
+2023-10-29T07:30:46.898Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 94%
+2023-10-29T07:30:47.167Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 95%
+2023-10-29T07:30:47.458Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 96%
+2023-10-29T07:30:47.751Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 97%
+2023-10-29T07:30:48.035Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 98%
+2023-10-29T07:30:48.313Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 99%
+2023-10-29T07:30:48.592Z [Modules] Streaming discord_voice@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip: 100%
+2023-10-29T07:30:48.593Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-10-29T07:30:48.594Z [Modules] Installing updates...
+2023-10-29T07:30:48.594Z [Modules] Installing discord_desktop_core@1 from /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_desktop_core-1.zip
+2023-10-29T07:30:48.671Z [Modules] Installing discord_erlpack@1 from /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_erlpack-1.zip
+2023-10-29T07:30:48.736Z [Modules] Installing discord_spellcheck@1 from /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_spellcheck-1.zip
+2023-10-29T07:30:49.503Z [Modules] Installing discord_utils@1 from /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_utils-1.zip
+2023-10-29T07:30:50.266Z [Modules] Installing discord_voice@1 from /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_voice-1.zip
+2023-10-29T07:30:51.677Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-10-29T07:30:51.677Z [Modules] Checking for host updates.
+2023-10-29T07:30:52.044Z [Modules] Host is up to date.
+2023-10-29T07:30:52.044Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-29T07:30:52.064Z [Modules] No module updates available.
+2023-10-29T07:30:58.455Z [Modules] Starting to install discord_krisp...
+2023-10-29T07:30:58.455Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-10-29T07:30:58.455Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip
+2023-10-29T07:30:58.466Z [Modules] Starting to install discord_game_utils...
+2023-10-29T07:31:00.368Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 1%
+2023-10-29T07:31:02.348Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 2%
+2023-10-29T07:31:03.263Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 3%
+2023-10-29T07:31:03.610Z [Modules] Checking for host updates.
+2023-10-29T07:31:03.680Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 4%
+2023-10-29T07:31:03.960Z [Modules] Starting to install discord_rpc...
+2023-10-29T07:31:03.996Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 5%
+2023-10-29T07:31:04.331Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 6%
+2023-10-29T07:31:04.648Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 7%
+2023-10-29T07:31:04.842Z [Modules] Host is up to date.
+2023-10-29T07:31:04.842Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-29T07:31:04.845Z [Modules] No module updates available.
+2023-10-29T07:31:04.971Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 8%
+2023-10-29T07:31:05.897Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 9%
+2023-10-29T07:31:06.211Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 10%
+2023-10-29T07:31:06.528Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 11%
+2023-10-29T07:31:06.873Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 12%
+2023-10-29T07:31:07.198Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 13%
+2023-10-29T07:31:07.540Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 14%
+2023-10-29T07:31:07.852Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 15%
+2023-10-29T07:31:08.167Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 16%
+2023-10-29T07:31:08.608Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 17%
+2023-10-29T07:31:09.283Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 18%
+2023-10-29T07:31:09.755Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 19%
+2023-10-29T07:31:11.834Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 20%
+2023-10-29T07:31:11.849Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 21%
+2023-10-29T07:31:11.862Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 23%
+2023-10-29T07:31:12.086Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 24%
+2023-10-29T07:31:12.414Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 25%
+2023-10-29T07:31:13.301Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 26%
+2023-10-29T07:31:13.784Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 27%
+2023-10-29T07:31:14.106Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 28%
+2023-10-29T07:31:14.427Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 29%
+2023-10-29T07:31:14.725Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 30%
+2023-10-29T07:31:15.063Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 31%
+2023-10-29T07:31:15.381Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 32%
+2023-10-29T07:31:15.697Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 33%
+2023-10-29T07:31:16.010Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 34%
+2023-10-29T07:31:16.329Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 35%
+2023-10-29T07:31:16.645Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 36%
+2023-10-29T07:31:16.957Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 37%
+2023-10-29T07:31:17.274Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 38%
+2023-10-29T07:31:17.585Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 39%
+2023-10-29T07:31:17.878Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 40%
+2023-10-29T07:31:18.192Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 41%
+2023-10-29T07:31:18.513Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 42%
+2023-10-29T07:31:18.838Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 43%
+2023-10-29T07:31:19.142Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 44%
+2023-10-29T07:31:19.462Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 45%
+2023-10-29T07:31:19.801Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 46%
+2023-10-29T07:31:20.234Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 47%
+2023-10-29T07:31:20.635Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 48%
+2023-10-29T07:31:21.099Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 49%
+2023-10-29T07:31:21.665Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 50%
+2023-10-29T07:31:22.139Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 51%
+2023-10-29T07:31:22.696Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 52%
+2023-10-29T07:31:23.222Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 53%
+2023-10-29T07:31:23.800Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 54%
+2023-10-29T07:31:25.263Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 55%
+2023-10-29T07:31:25.840Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 56%
+2023-10-29T07:31:26.537Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 57%
+2023-10-29T07:31:27.051Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 58%
+2023-10-29T07:31:27.655Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 59%
+2023-10-29T07:31:28.340Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 60%
+2023-10-29T07:31:28.840Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 61%
+2023-10-29T07:31:29.542Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 62%
+2023-10-29T07:31:30.042Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 63%
+2023-10-29T07:31:30.611Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 64%
+2023-10-29T07:31:31.243Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 65%
+2023-10-29T07:31:31.911Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 66%
+2023-10-29T07:31:32.554Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 67%
+2023-10-29T07:31:33.183Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 68%
+2023-10-29T07:31:33.789Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 69%
+2023-10-29T07:31:34.413Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 70%
+2023-10-29T07:31:35.049Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 71%
+2023-10-29T07:31:35.691Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 72%
+2023-10-29T07:31:36.681Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 73%
+2023-10-29T07:31:37.320Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 74%
+2023-10-29T07:31:37.946Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 75%
+2023-10-29T07:31:38.609Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 76%
+2023-10-29T07:31:39.280Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 77%
+2023-10-29T07:31:39.911Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 78%
+2023-10-29T07:31:40.588Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 79%
+2023-10-29T07:31:41.297Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 80%
+2023-10-29T07:31:41.995Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 81%
+2023-10-29T07:31:42.679Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 82%
+2023-10-29T07:31:43.386Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 83%
+2023-10-29T07:31:44.071Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 84%
+2023-10-29T07:31:44.782Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 85%
+2023-10-29T07:31:45.474Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 86%
+2023-10-29T07:31:46.161Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 87%
+2023-10-29T07:31:47.153Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 88%
+2023-10-29T07:31:47.633Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 89%
+2023-10-29T07:31:47.959Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 90%
+2023-10-29T07:31:48.275Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 91%
+2023-10-29T07:31:48.589Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 92%
+2023-10-29T07:31:48.902Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 93%
+2023-10-29T07:31:49.217Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 94%
+2023-10-29T07:31:49.531Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 95%
+2023-10-29T07:31:49.846Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 96%
+2023-10-29T07:31:50.139Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 97%
+2023-10-29T07:31:50.454Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 98%
+2023-10-29T07:31:50.772Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 99%
+2023-10-29T07:31:51.078Z [Modules] Streaming discord_krisp@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip: 100%
+2023-10-29T07:31:51.079Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-10-29T07:31:51.079Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip
+2023-10-29T07:31:51.079Z [Modules] Installing discord_krisp@1 from /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_krisp-1.zip
+2023-10-29T07:31:51.419Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-10-29T07:31:51.759Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 1%
+2023-10-29T07:31:51.803Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 2%
+2023-10-29T07:31:51.826Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 3%
+2023-10-29T07:31:51.870Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 4%
+2023-10-29T07:31:51.900Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 5%
+2023-10-29T07:31:51.938Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 6%
+2023-10-29T07:31:51.989Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 7%
+2023-10-29T07:31:52.036Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 9%
+2023-10-29T07:31:52.159Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 10%
+2023-10-29T07:31:52.160Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 11%
+2023-10-29T07:31:52.163Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 12%
+2023-10-29T07:31:52.210Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 14%
+2023-10-29T07:31:52.255Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 15%
+2023-10-29T07:31:52.605Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 18%
+2023-10-29T07:31:52.606Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 25%
+2023-10-29T07:31:52.652Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 26%
+2023-10-29T07:31:52.692Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 27%
+2023-10-29T07:31:52.710Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 28%
+2023-10-29T07:31:52.739Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 29%
+2023-10-29T07:31:52.777Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 30%
+2023-10-29T07:31:52.826Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 31%
+2023-10-29T07:31:52.879Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 33%
+2023-10-29T07:31:52.988Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 35%
+2023-10-29T07:31:52.990Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 36%
+2023-10-29T07:31:53.021Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 37%
+2023-10-29T07:31:53.084Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 38%
+2023-10-29T07:31:53.123Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 40%
+2023-10-29T07:31:53.161Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 41%
+2023-10-29T07:31:53.186Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 42%
+2023-10-29T07:31:53.242Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 43%
+2023-10-29T07:31:53.289Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 44%
+2023-10-29T07:31:53.390Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 46%
+2023-10-29T07:31:53.393Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 47%
+2023-10-29T07:31:53.394Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 48%
+2023-10-29T07:31:53.446Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 49%
+2023-10-29T07:31:53.486Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 50%
+2023-10-29T07:31:53.595Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 51%
+2023-10-29T07:31:53.598Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 53%
+2023-10-29T07:31:53.646Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 55%
+2023-10-29T07:31:53.683Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 56%
+2023-10-29T07:31:53.800Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 57%
+2023-10-29T07:31:53.802Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 59%
+2023-10-29T07:31:53.806Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 60%
+2023-10-29T07:31:53.849Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 61%
+2023-10-29T07:31:53.892Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 62%
+2023-10-29T07:31:54.005Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 63%
+2023-10-29T07:31:54.008Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 65%
+2023-10-29T07:31:54.012Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 66%
+2023-10-29T07:31:54.055Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 67%
+2023-10-29T07:31:54.114Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 68%
+2023-10-29T07:31:54.229Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 70%
+2023-10-29T07:31:54.236Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 71%
+2023-10-29T07:31:54.238Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 72%
+2023-10-29T07:31:54.269Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 73%
+2023-10-29T07:31:54.297Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 74%
+2023-10-29T07:31:54.403Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 75%
+2023-10-29T07:31:54.414Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 76%
+2023-10-29T07:31:54.419Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 77%
+2023-10-29T07:31:54.453Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 78%
+2023-10-29T07:31:54.492Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 79%
+2023-10-29T07:31:54.503Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 80%
+2023-10-29T07:31:54.527Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 81%
+2023-10-29T07:31:54.570Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 82%
+2023-10-29T07:31:54.594Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 83%
+2023-10-29T07:31:54.637Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 84%
+2023-10-29T07:31:54.663Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 85%
+2023-10-29T07:31:54.704Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 86%
+2023-10-29T07:31:54.730Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 87%
+2023-10-29T07:31:54.774Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 88%
+2023-10-29T07:31:54.821Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 89%
+2023-10-29T07:31:54.845Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 90%
+2023-10-29T07:31:54.890Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 91%
+2023-10-29T07:31:54.914Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 92%
+2023-10-29T07:31:54.958Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 93%
+2023-10-29T07:31:54.981Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 94%
+2023-10-29T07:31:55.026Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 95%
+2023-10-29T07:31:55.048Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 96%
+2023-10-29T07:31:55.092Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 97%
+2023-10-29T07:31:55.115Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 98%
+2023-10-29T07:31:55.159Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 99%
+2023-10-29T07:31:55.191Z [Modules] Streaming discord_game_utils@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip: 100%
+2023-10-29T07:31:55.192Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-10-29T07:31:55.192Z [Modules] Streaming discord_rpc@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_rpc-1.zip
+2023-10-29T07:31:55.192Z [Modules] Installing discord_game_utils@1 from /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_game_utils-1.zip
+2023-10-29T07:31:55.238Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-10-29T07:31:55.940Z [Modules] Streaming discord_rpc@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_rpc-1.zip: 38%
+2023-10-29T07:31:55.954Z [Modules] Streaming discord_rpc@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_rpc-1.zip: 75%
+2023-10-29T07:31:55.966Z [Modules] Streaming discord_rpc@1 to /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_rpc-1.zip: 100%
+2023-10-29T07:31:55.967Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-10-29T07:31:55.967Z [Modules] Installing discord_rpc@1 from /home/adiwalia/.config/discord/0.0.32/modules/pending/discord_rpc-1.zip
+2023-10-29T07:31:55.985Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-10-29T08:31:03.611Z [Modules] Checking for host updates.
+2023-10-29T08:31:08.208Z [Modules] Host update failed: Error: certificate has expired
+2023-10-29T09:31:03.611Z [Modules] Checking for host updates.
+2023-10-29T09:31:03.973Z [Modules] Host is up to date.
+2023-10-29T09:31:03.973Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-29T09:31:03.995Z [Modules] No module updates available.
+2023-10-29T10:31:03.611Z [Modules] Checking for host updates.
+2023-10-29T10:31:03.996Z [Modules] Host is up to date.
+2023-10-29T10:31:03.996Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-29T10:31:04.020Z [Modules] No module updates available.
+2023-10-29T11:31:03.611Z [Modules] Checking for host updates.
+2023-10-29T11:31:04.029Z [Modules] Host is up to date.
+2023-10-29T11:31:04.029Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-29T11:31:04.050Z [Modules] No module updates available.
+2023-10-29T12:31:03.611Z [Modules] Checking for host updates.
+2023-10-29T12:31:04.276Z [Modules] Host is up to date.
+2023-10-29T12:31:04.276Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-29T12:31:04.364Z [Modules] No module updates available.
+2023-10-29T13:31:03.611Z [Modules] Checking for host updates.
+2023-10-29T13:31:04.003Z [Modules] Host is up to date.
+2023-10-29T13:31:04.003Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-29T13:31:04.027Z [Modules] No module updates available.
+2023-10-29T14:31:03.610Z [Modules] Checking for host updates.
+2023-10-29T14:31:04.036Z [Modules] Host is up to date.
+2023-10-29T14:31:04.036Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-29T14:31:04.072Z [Modules] No module updates available.
