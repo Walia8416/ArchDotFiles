@@ -20,3 +20,36 @@
   serviceName: 'audio.mojom.AudioService',
   name: 'Audio Service'
 }
+2023-11-05T15:37:30.454Z 0: 
+
+----------------------------------------------
+2023-11-05T15:37:30.479Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/adiwalia/.config/discord/0.0.32/modules
+2023-11-05T15:37:30.495Z 2: ✅ webContents.created web1 ""
+2023-11-05T15:37:30.499Z 3: ✅ window.created win1 "discord"
+2023-11-05T15:37:30.922Z 4: ✅ webContents.did-finish-load web1
+2023-11-05T15:37:36.280Z 5: window.close win1
+2023-11-05T15:37:42.900Z 0: 
+
+----------------------------------------------
+2023-11-05T15:37:42.923Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/adiwalia/.config/discord/0.0.32/modules
+2023-11-05T15:37:42.928Z 2: ✅ webContents.created web1 ""
+2023-11-05T15:37:42.933Z 3: ✅ window.created win1 "discord"
+2023-11-05T15:37:43.144Z 4: ✅ webContents.did-finish-load web1
+2023-11-05T15:37:46.942Z 5: window.close win1
+2023-11-05T15:37:46.957Z 6: webContents.destroyed web1
+2023-11-05T15:37:55.658Z 0: 
+
+----------------------------------------------
+2023-11-05T15:37:55.678Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/adiwalia/.config/discord/0.0.32/modules
+2023-11-05T15:37:55.682Z 2: ✅ webContents.created web1 ""
+2023-11-05T15:37:55.686Z 3: ✅ window.created win1 "discord"
+2023-11-05T15:37:55.906Z 4: ✅ webContents.did-finish-load web1
+2023-11-05T15:38:04.588Z 5: window.close win1
+2023-11-05T15:44:07.148Z 0: 
+
+----------------------------------------------
+2023-11-05T15:44:07.169Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/adiwalia/.config/discord/0.0.32/modules
+2023-11-05T15:44:07.173Z 2: ✅ webContents.created web1 ""
+2023-11-05T15:44:07.177Z 3: ✅ window.created win1 "discord"
+2023-11-05T15:44:07.379Z 4: ✅ webContents.did-finish-load web1
+2023-11-05T15:44:09.496Z 5: window.close win1

@@ -1,5 +1,5 @@
-2023/11/05-16:46:45.334 1a3a61 Recovering log #3
-2023/11/05-16:46:45.666 1a3a61 Level-0 table #5: started
-2023/11/05-16:46:45.828 1a3a61 Level-0 table #5: 2784740 bytes OK
-2023/11/05-16:46:45.841 1a3a61 Delete type=0 #3
-2023/11/05-16:46:45.841 1a3a61 Delete type=3 #2
+2023/11/07-12:37:09.579 c06dc Recovering log #3
+2023/11/07-12:37:09.978 c06dc Level-0 table #5: started
+2023/11/07-12:37:10.087 c06dc Level-0 table #5: 2784740 bytes OK
+2023/11/07-12:37:10.114 c06dc Delete type=0 #3
+2023/11/07-12:37:10.115 c06dc Delete type=3 #2

@@ -5,4 +5,3 @@ audio.play_bitrate_enumeration=4
 ui.hide_hpto=true
 audio.play_bitrate_non_metered_enumeration=4
 audio.crossfade.time_v2=525
-app.player.volume=54865

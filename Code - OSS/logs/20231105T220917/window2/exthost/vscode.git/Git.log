@@ -1,0 +1,27 @@
+2023-11-05 22:15:23.265 [info] Log level: Info
+2023-11-05 22:15:23.265 [info] Validating found git in: "git"
+2023-11-05 22:15:23.265 [info] Using git "2.42.0" from "git"
+2023-11-05 22:15:37.039 [info] Log level: Info
+2023-11-05 22:15:37.039 [info] Validating found git in: "git"
+2023-11-05 22:15:37.039 [info] Using git "2.42.0" from "git"
+2023-11-05 22:15:37.039 [info] > git rev-parse --show-toplevel [8ms]
+2023-11-05 22:15:37.056 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-11-05 22:15:37.073 [info] Open repository: /home/adiwalia/Documents/SudokuSolverBackend
+2023-11-05 22:15:37.092 [info] > git config --get commit.template [9ms]
+2023-11-05 22:15:37.128 [info] > git rev-parse --show-toplevel [38ms]
+2023-11-05 22:15:37.195 [info] > git rev-parse --show-toplevel [36ms]
+2023-11-05 22:15:37.196 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [46ms]
+2023-11-05 22:15:37.228 [info] > git status -z -uall [25ms]
+2023-11-05 22:15:37.249 [info] > git rev-parse --show-toplevel [27ms]
+2023-11-05 22:15:37.263 [info] > git config --get commit.template [15ms]
+2023-11-05 22:15:37.266 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-05 22:15:37.300 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2023-11-05 22:15:37.321 [info] > git status -z -uall [12ms]
+2023-11-05 22:15:37.634 [info] > git check-ignore -v -z --stdin [1ms]
+2023-11-05 22:15:37.649 [info] > git show --textconv :solver/views.py [6ms]
+2023-11-05 22:15:37.650 [info] > git ls-files --stage -- /home/adiwalia/Documents/SudokuSolverBackend/solver/views.py [1ms]
+2023-11-05 22:15:38.977 [info] > git show --textconv :.gitignore [9ms]
+2023-11-05 22:15:38.980 [info] > git ls-files --stage -- /home/adiwalia/Documents/SudokuSolverBackend/.gitignore [4ms]
+2023-11-05 22:15:38.988 [info] > git cat-file -s 21d0b898ff61470da684cc5e8f7d6efa648de8cf [1ms]
+2023-11-05 22:15:46.441 [info] > git show --textconv :solver/views.py [5ms]
+2023-11-05 22:15:46.442 [info] > git ls-files --stage -- /home/adiwalia/Documents/SudokuSolverBackend/solver/views.py [2ms]

@@ -1,0 +1,2 @@
+2023-11-07 12:32:51.142 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/adiwalia/.config/neofetch/config.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-11-07 12:32:54.656 [info] [perf] Render performance baseline is 49ms

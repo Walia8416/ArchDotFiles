@@ -11,7 +11,9 @@
             "file:///home/adiwalia/Documents/Blog": "__default__profile__",
             "file:///home/adiwalia/Documents/SudokuSolverBackend": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1699340641647": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "2755f985ccc79e5e9fec13f2f4308ad4f8e5d15740dd4396b418e93360506c7f",
@@ -20,23 +22,23 @@
         "folders": [
             {
                 "folderUri": "file:///home/adiwalia/Documents/DjangoProj"
-            },
-            {
-                "folderUri": "file:///home/adiwalia/Documents/SudokuSolverBackend"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1699340641647"
+            }
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/adiwalia/Documents/SudokuSolverBackend",
-            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/504f33d1cd7d507f0f2bd6bfd981cf43",
+            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/1699340641647",
             "uiState": {
                 "mode": 1,
-                "x": 19,
-                "y": 45,
-                "width": 930,
-                "height": 1016
+                "x": 1920,
+                "y": 0,
+                "width": 1600,
+                "height": 900
             }
         },
         "openedWindows": []
@@ -79,7 +81,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -179,12 +182,56 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/adiwalia/Documents/SudokuSolverBackend/Pipfile",
-                                        "path": "/home/adiwalia/Documents/SudokuSolverBackend/Pipfile",
+                                        "external": "file:///home/adiwalia/.config/neofetch/config.conf",
+                                        "path": "/home/adiwalia/.config/neofetch/config.conf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/SudokuSolverBackend/Pipfile"
+                                    "label": "~/.config/neofetch/config.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/.config/i3/config",
+                                        "path": "/home/adiwalia/.config/i3/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/i3/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/.config/polybar/themes/rainbow-slashes.ini",
+                                        "path": "/home/adiwalia/.config/polybar/themes/rainbow-slashes.ini",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/polybar/themes/rainbow-slashes.ini"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/.config/i3/keybindings",
+                                        "path": "/home/adiwalia/.config/i3/keybindings",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/i3/keybindings"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/.config/i3/i3blocks.conf",
+                                        "path": "/home/adiwalia/.config/i3/i3blocks.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/i3/i3blocks.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -196,6 +243,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/token.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adiwalia/Documents/SudokuSolverBackend/Pipfile",
+                                        "path": "/home/adiwalia/Documents/SudokuSolverBackend/Pipfile",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/SudokuSolverBackend/Pipfile"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -229,61 +287,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Documents/OpenCV-SudokuSolver/gg.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/Documents/sudokuDetector.py",
-                                        "path": "/home/adiwalia/Documents/sudokuDetector.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/sudokuDetector.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/Downloads/S0167923613000651.txt",
-                                        "path": "/home/adiwalia/Downloads/S0167923613000651.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/S0167923613000651.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/Downloads/S187775031100007X.txt",
-                                        "path": "/home/adiwalia/Downloads/S187775031100007X.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/S187775031100007X.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/Downloads/10.1007_s10115-017-1134-1-citation.ris",
-                                        "path": "/home/adiwalia/Downloads/10.1007_s10115-017-1134-1-citation.ris",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/10.1007_s10115-017-1134-1-citation.ris"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/Downloads/S1877050918308433.txt",
-                                        "path": "/home/adiwalia/Downloads/S1877050918308433.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/S1877050918308433.txt"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -341,13 +344,6 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -474,10 +470,6 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -673,8 +665,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -1430,11 +1421,6 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
-            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1826,7 +1812,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 170,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }

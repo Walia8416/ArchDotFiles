@@ -1,0 +1,2 @@
+2023-11-05 21:50:42.034 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/adiwalia/Desktop/token.txt","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-11-05 21:50:45.376 [info] [perf] Render performance baseline is 25ms
