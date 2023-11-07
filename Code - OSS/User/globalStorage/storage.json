@@ -12,7 +12,9 @@
             "file:///home/adiwalia/Documents/SudokuSolverBackend": "__default__profile__"
         },
         "emptyWindows": {
-            "1699340641647": "__default__profile__"
+            "1699340641647": "__default__profile__",
+            "1699340969855": "__default__profile__",
+            "1699341030692": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -26,19 +28,19 @@
         ],
         "emptyWindows": [
             {
-                "backupFolder": "1699340641647"
+                "backupFolder": "1699341030692"
             }
         ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/1699340641647",
+            "backupPath": "/home/adiwalia/.config/Code - OSS/Backups/1699341030692",
             "uiState": {
                 "mode": 1,
-                "x": 1920,
-                "y": 0,
-                "width": 1600,
-                "height": 900
+                "x": 2998,
+                "y": 45,
+                "width": 503,
+                "height": 836
             }
         },
         "openedWindows": []
@@ -182,6 +184,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/adiwalia/Desktop/token.txt",
+                                        "path": "/home/adiwalia/Desktop/token.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/token.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/adiwalia/.config/neofetch/config.conf",
                                         "path": "/home/adiwalia/.config/neofetch/config.conf",
                                         "scheme": "file"
@@ -232,17 +245,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/i3/i3blocks.conf"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adiwalia/Desktop/token.txt",
-                                        "path": "/home/adiwalia/Desktop/token.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/token.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -911,7 +913,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -920,7 +923,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
