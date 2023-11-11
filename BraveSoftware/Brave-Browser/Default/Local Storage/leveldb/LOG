@@ -1,3 +1,24 @@
-2023/11/07-12:40:51.322 4 Reusing MANIFEST /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2023/11/07-12:40:51.324 4 Recovering log #25
-2023/11/07-12:40:51.324 4 Reusing old log /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000025.log 
+2023/11/11-11:20:16.146 4 Reusing MANIFEST /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/11/11-11:20:16.158 4 Recovering log #53
+2023/11/11-11:20:16.160 4 Reusing old log /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000053.log 
+2023/11/11-11:26:21.184 4 Level-0 table #57: started
+2023/11/11-11:26:21.206 4 Level-0 table #57: 22927 bytes OK
+2023/11/11-11:26:21.211 4 Delete type=0 #53
+2023/11/11-11:26:21.211 4 Compacting 4@0 + 1@1 files
+2023/11/11-11:26:21.237 4 Generated table #58@0: 383 keys, 669364 bytes
+2023/11/11-11:26:21.237 4 Compacted 4@0 + 1@1 files => 669364 bytes
+2023/11/11-11:26:21.243 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/11-11:26:21.243 4 Delete type=2 #54
+2023/11/11-11:26:21.243 4 Delete type=2 #57
+2023/11/11-11:26:21.243 4 Delete type=2 #50
+2023/11/11-11:26:21.243 4 Delete type=2 #48
+2023/11/11-11:26:21.243 4 Delete type=2 #52
+2023/11/11-11:42:29.125 4 Level-0 table #60: started
+2023/11/11-11:42:29.147 4 Level-0 table #60: 36279 bytes OK
+2023/11/11-11:42:29.152 4 Delete type=0 #56
+2023/11/11-12:05:44.208 6 Level-0 table #62: started
+2023/11/11-12:05:44.212 6 Level-0 table #62: 26522 bytes OK
+2023/11/11-12:05:44.217 6 Delete type=0 #59
+2023/11/11-12:28:17.339 6 Level-0 table #64: started
+2023/11/11-12:28:17.360 6 Level-0 table #64: 45894 bytes OK
+2023/11/11-12:28:17.365 6 Delete type=0 #61

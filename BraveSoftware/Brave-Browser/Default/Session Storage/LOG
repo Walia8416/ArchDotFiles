@@ -1,3 +1,27 @@
-2023/11/07-12:40:51.407 4 Reusing MANIFEST /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2023/11/07-12:40:51.407 4 Recovering log #12
-2023/11/07-12:40:51.408 4 Reusing old log /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000012.log 
+2023/11/11-11:20:16.365 4 Reusing MANIFEST /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2023/11/11-11:20:16.368 4 Recovering log #27
+2023/11/11-11:20:16.368 4 Reusing old log /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000027.log 
+2023/11/11-11:41:24.772 4 Level-0 table #32: started
+2023/11/11-11:41:24.794 4 Level-0 table #32: 60908 bytes OK
+2023/11/11-11:41:24.800 4 Delete type=0 #27
+2023/11/11-11:41:50.401 6 Level-0 table #34: started
+2023/11/11-11:41:50.424 6 Level-0 table #34: 48661 bytes OK
+2023/11/11-11:41:50.429 6 Delete type=0 #31
+2023/11/11-11:42:30.317 4 Level-0 table #36: started
+2023/11/11-11:42:30.340 4 Level-0 table #36: 97294 bytes OK
+2023/11/11-11:42:30.344 4 Delete type=0 #33
+2023/11/11-12:04:34.239 6 Level-0 table #38: started
+2023/11/11-12:04:34.262 6 Level-0 table #38: 49369 bytes OK
+2023/11/11-12:04:34.269 6 Delete type=0 #35
+2023/11/11-12:04:34.269 6 Compacting 4@0 + 1@1 files
+2023/11/11-12:04:34.276 6 Generated table #39@0: 1177 keys, 168449 bytes
+2023/11/11-12:04:34.276 6 Compacted 4@0 + 1@1 files => 168449 bytes
+2023/11/11-12:04:34.281 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/11-12:04:34.282 6 Delete type=2 #34
+2023/11/11-12:04:34.282 6 Delete type=2 #29
+2023/11/11-12:04:34.282 6 Delete type=2 #38
+2023/11/11-12:04:34.282 6 Delete type=2 #32
+2023/11/11-12:04:34.282 6 Delete type=2 #36
+2023/11/11-12:12:28.492 4 Level-0 table #41: started
+2023/11/11-12:12:28.498 4 Level-0 table #41: 49951 bytes OK
+2023/11/11-12:12:28.503 4 Delete type=0 #37

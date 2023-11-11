@@ -6,6 +6,7 @@
 set $mod Mod4
 set $mod1 Mod1
 set $myTerm alacritty
+set $mod6 End
 
 
 ################################################################################
@@ -14,8 +15,9 @@ set $myTerm alacritty
 
 # Start Applications
 bindsym $mod+Return exec --no-startup-id $myTerm
-bindsym $mod+v exec --no-startup-id $myTerm -e nvim
-bindsym $mod+Shift+v exec --no-startup-id vscodium
+bindsym XF86AudioRaiseVolume fullscreen toggle
+bindsym $mod+v exec --no-startup-id subl
+bindsym $mod+Shift+v exec --no-startup-id code
 # bindsym $mod+o exec --no-startup-id obs
 # bindsym $mod+b exec --no-startup-id vivaldi-stable
 bindsym $mod+b exec --no-startup-id brave
@@ -32,7 +34,7 @@ bindsym $mod+r exec --no-startup-id rofi -show run -run-shell-command '$myTerm -
 # bindsym $mod+r exec --no-startup-id ~/.config/i3/i3-master-layout/i3-swap-master.py
 # bindsym $mod+r exec --no-startup-id sudo timeshift-gtk
 bindsym $mod1+space exec --no-startup-id rofi -show drun -show-icons
-bindsym $mod+z exec --no-startup-id zoom
+bindsym $mod+z exec --no-startup-id discord
 # bindsym $mod+f exec --no-startup-id flatpak run io.freetubeapp.FreeTube
 bindsym $mod+c exec --no-startup-id ~/.config/rofi/scripts/configs.sh
 bindsym $mod+u exec --no-startup-id ~/.config/rofi/scripts/rofi-favorites.sh

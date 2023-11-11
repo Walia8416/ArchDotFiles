@@ -1,0 +1,11 @@
+2023-11-07 13:11:25.641 [info] Extension host with pid 1305097 started
+2023-11-07 13:11:25.719 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-07 13:11:25.793 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-07 13:11:25.806 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-07 13:11:25.830 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-07 13:11:25.888 [info] Eager extensions activated
+2023-11-07 13:11:25.925 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-07 13:11:25.927 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-07 13:11:25.933 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-11-07 13:11:29.916 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-07 13:11:29.920 [info] Extension host with pid 1305097 exiting with code 0

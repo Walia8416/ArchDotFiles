@@ -1,3 +1,2 @@
-2023/11/05-21:14:07.118 16c9c6 Reusing MANIFEST /home/adiwalia/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/11/05-21:14:07.118 16c9c6 Recovering log #13
-2023/11/05-21:14:07.118 16c9c6 Reusing old log /home/adiwalia/.config/discord/Local Storage/leveldb/000013.log 
+2023/11/11-13:43:17.869 112290 Creating DB /home/adiwalia/.config/discord/Local Storage/leveldb since it was missing.
+2023/11/11-13:43:17.882 112290 Reusing MANIFEST /home/adiwalia/.config/discord/Local Storage/leveldb/MANIFEST-000001

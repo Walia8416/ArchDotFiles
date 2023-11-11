@@ -1,5 +1,5 @@
-2023/11/07-12:40:51.511 cf199 Recovering log #3
-2023/11/07-12:40:51.779 cf199 Level-0 table #5: started
-2023/11/07-12:40:51.990 cf199 Level-0 table #5: 2784740 bytes OK
-2023/11/07-12:40:52.007 cf199 Delete type=0 #3
-2023/11/07-12:40:52.007 cf199 Delete type=3 #2
+2023/11/11-11:20:16.490 cb0 Recovering log #3
+2023/11/11-11:20:16.678 cb0 Level-0 table #5: started
+2023/11/11-11:20:16.807 cb0 Level-0 table #5: 2784740 bytes OK
+2023/11/11-11:20:16.825 cb0 Delete type=0 #3
+2023/11/11-11:20:16.825 cb0 Delete type=3 #2

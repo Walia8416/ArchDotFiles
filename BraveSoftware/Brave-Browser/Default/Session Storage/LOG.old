@@ -1,3 +1,36 @@
-2023/11/07-12:37:09.492 4 Reusing MANIFEST /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2023/11/07-12:37:09.492 4 Recovering log #12
-2023/11/07-12:37:09.493 4 Reusing old log /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000012.log 
+2023/11/10-19:58:10.488 4 Reusing MANIFEST /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2023/11/10-19:58:10.491 4 Recovering log #15
+2023/11/10-19:58:10.495 4 Reusing old log /home/adiwalia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000015.log 
+2023/11/10-20:31:41.180 4 Level-0 table #19: started
+2023/11/10-20:31:41.202 4 Level-0 table #19: 19734 bytes OK
+2023/11/10-20:31:41.208 4 Delete type=0 #15
+2023/11/10-20:31:41.208 4 Compacting 4@0 + 1@1 files
+2023/11/10-20:31:41.213 4 Generated table #20@0: 654 keys, 20001 bytes
+2023/11/10-20:31:41.213 4 Compacted 4@0 + 1@1 files => 20001 bytes
+2023/11/10-20:31:41.217 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/10-20:31:41.217 4 Delete type=2 #13
+2023/11/10-20:31:41.217 4 Delete type=2 #16
+2023/11/10-20:31:41.217 4 Delete type=2 #7
+2023/11/10-20:31:41.218 4 Delete type=2 #19
+2023/11/10-20:31:41.218 4 Delete type=2 #10
+2023/11/11-00:24:32.233 6 Level-0 table #22: started
+2023/11/11-00:24:32.256 6 Level-0 table #22: 56228 bytes OK
+2023/11/11-00:24:32.261 6 Delete type=0 #18
+2023/11/11-00:28:01.030 6 Level-0 table #24: started
+2023/11/11-00:28:01.768 6 Level-0 table #24: 56601 bytes OK
+2023/11/11-00:28:01.775 6 Delete type=0 #21
+2023/11/11-01:10:14.646 6 Level-0 table #26: started
+2023/11/11-01:10:14.675 6 Level-0 table #26: 19575 bytes OK
+2023/11/11-01:10:14.689 6 Delete type=0 #23
+2023/11/11-01:11:16.498 6 Level-0 table #28: started
+2023/11/11-01:11:16.521 6 Level-0 table #28: 49646 bytes OK
+2023/11/11-01:11:16.528 6 Delete type=0 #25
+2023/11/11-01:11:16.528 6 Compacting 4@0 + 1@1 files
+2023/11/11-01:11:16.536 6 Generated table #29@0: 986 keys, 190272 bytes
+2023/11/11-01:11:16.536 6 Compacted 4@0 + 1@1 files => 190272 bytes
+2023/11/11-01:11:16.542 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/11-01:11:16.545 6 Delete type=2 #22
+2023/11/11-01:11:16.545 6 Delete type=2 #20
+2023/11/11-01:11:16.545 6 Delete type=2 #24
+2023/11/11-01:11:16.545 6 Delete type=2 #26
+2023/11/11-01:11:16.545 6 Delete type=2 #28
