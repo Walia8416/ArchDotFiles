@@ -21,6 +21,7 @@ bindsym $mod+Shift+v exec --no-startup-id code
 # bindsym $mod+o exec --no-startup-id obs
 # bindsym $mod+b exec --no-startup-id vivaldi-stable
 bindsym $mod+b exec --no-startup-id brave
+bindsym $mod+s exec --no-startup-id brave https://web.whatsapp.com/
 bindsym $mod+w exec --no-startup-id rofi -show window -show-icons
 bindsym $mod+d exec rofi -modi drun -show drun \
 # bindsym $mod+x exec --no-startup-id powermenu
